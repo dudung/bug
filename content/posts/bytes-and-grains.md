@@ -43,7 +43,7 @@ The repository is now available on https://github.com/dudung/bytes-and-grains.
 
 ## notes
 [^gpt4o_2024]: GPT-4o, Sparisoma Viridi, "Dynamic Bytes and Grains", ChatGPT, 06 Jul 2024, url https://chatgpt.com/share/15628c86-a31d-497c-a23e-0d3afb5443a2 [20240707].
-[^Viridi_2023a]: url https://medium.com/p/46c4a36c2673 [20240707].
-[^Viridi_2023b]: url https://medium.com/p/12c1dc10d7d [20240707].
-[^Viridi_2023c]: url https://medium.com/p/8d4c29799185 [20240707].
-[^Viridi_2023d]: url https://medium.com/p/3c8a9cbb791d [20240707].
+[^Viridi_2023a]: Sparisoma Viridi, "How to create a GitHub Account", Medium, 8 Jul 2023, url https://medium.com/p/46c4a36c2673 [20240707].
+[^Viridi_2023b]: Sparisoma Viridi, "Create a GitHub repository and collaborate", Medium, 16 Jul 2023, url https://medium.com/p/12c1dc10d7d [20240707].
+[^Viridi_2023c]: Sparisoma Viridi, "Installing Git", Medium, 18 Sep 2023, url https://medium.com/p/8d4c29799185 [20240707].
+[^Viridi_2023d]: Sparisoma Viridi, "Installing Hugo", Medium, 18 Sep 2023, url https://medium.com/p/3c8a9cbb791d [20240707].
