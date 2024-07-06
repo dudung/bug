@@ -8,7 +8,7 @@ authors = ['viridi']
 +++
 Recreate the blog: Some features<!--more-->
 
-Continuing previous post [^viridi_2024] here some features are presented.
+Continuing previous post [^viridi_2024] here some features are presented, just as reminder.
 
 
 ## notes
