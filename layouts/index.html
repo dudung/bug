@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <main aria-role="main">
+    <header class="homepage-header">
+      <h1>some slides to share</h1>
+      {{ with .Params.subtitle }}
+        <span class="subtitle">{{ . }}</span>
+      {{ end }}
+    </header>
+    <div class="homepage-content">
+      <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+      {{ .Content }}
+    </div>
+    
+    {{ $max := len .Site.RegularPages }}
+    {{ $index :=  sub $max 1 }}
+    
+    {{ range sort .Site.RegularPages ".Params.url" "desc" }}
+        <code>
+          <x style="color: #aaa;">{{ .Params.url }}</x>
+          {{/* .{{ printf "%04d" $index */}}
+          {{ dateFormat "02-Jan-2006" .Date }}
+        </code>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        
+        {{ $index = sub $index 1 }}
+    {{ end }}
+   
+{{ end }}
