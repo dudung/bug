@@ -26,6 +26,21 @@ It is assumed that
 + you have installed Hugo or know how to download and install it [^Viridi_2023d].
 
 
+## new repository
+A new repository name bytes-and-grains will be created.
+- First visit your GitHub user profile, where in my case is https://github.com/dudung.
+- Click on + symbol near top right corner, under the address bar.
+- Choose New repository.
+- Type on Repository name bytes-and-grains as the name and GitHub have shown that the name is available. Continue with filling the Description.
+- Let the Public option chosen, then check Add a README file.
+- Choose a license, select any license suits you purpose.
+- Click Create repository button, the green one on the right bottom.
+- Wait for the repository creating process.
+- It will show the created repository.
+
+The repository is now available on https://github.com/dudung/bytes-and-grains.
+
+
 ## notes
 [^gpt4o_2024]: GPT-4o, Sparisoma Viridi, "Dynamic Bytes and Grains", ChatGPT, 06 Jul 2024, url https://chatgpt.com/share/15628c86-a31d-497c-a23e-0d3afb5443a2 [20240707].
 [^Viridi_2023a]: url https://medium.com/p/46c4a36c2673 [20240707].
