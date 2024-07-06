@@ -8,7 +8,7 @@ authors = ['viridi']
 +++
 Bytes and grains: Create a Hugo-based blog hosted on GitHub<!--more-->
 
-> Illustrated version of this post is available on https://medium.com/p/ddc85a338626
+> Illustrated version of this post is available on https://medium.com/p/ddc85a338626 (6 Jul 2024).
 
 I just try to recreate my previous blog on GitHub and document the steps here. If you want the details how to create the blog from the beginning just jump to the last part of this story, where I put some blog article about it.
 
