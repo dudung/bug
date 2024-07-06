@@ -1,6 +1,6 @@
 baseURL = 'https://dudung.github.io/bytes-and-grains'
 languageCode = 'en-us'
-title = 's'
+title = 'bytes-and-grains'
 theme = 'default'
 
 enableEmoji = true

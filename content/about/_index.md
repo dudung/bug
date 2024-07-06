@@ -1,4 +1,4 @@
 +++
 title = 'About'
 +++
-some slides to share
+from codes to granular systems
