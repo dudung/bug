@@ -202,3 +202,4 @@ After read this story you are able to
 [^Viridi_2023b]: Sparisoma Viridi, "Create a GitHub repository and collaborate", Medium, 16 Jul 2023, url https://medium.com/p/12c1dc10d7d [20240707].
 [^Viridi_2023c]: Sparisoma Viridi, "Installing Git", Medium, 18 Sep 2023, url https://medium.com/p/8d4c29799185 [20240707].
 [^Viridi_2023d]: Sparisoma Viridi, "Installing Hugo", Medium, 18 Sep 2023, url https://medium.com/p/3c8a9cbb791d [20240707].
+
