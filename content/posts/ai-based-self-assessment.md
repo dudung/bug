@@ -59,3 +59,4 @@ Above steps can be change in the future based on given suggestions.
 [^maps_2024b]: -, "Loenpia Mbak Lien", Google Maps, 7 Jul 2024, url https://maps.app.goo.gl/MFGJsYsdZ795r2aR8 [20240708].
 [^ig_2024]: -, "damars.daad", Instagram, 7 Jul 2024, url https://www.instagram.com/damars.daad/ [20240708].
 [^gpt4o_2024]: Sparisoma Viridi, GPT-4o, "Inefficient Accreditation: Solutions", ChatGPT, 8 Jul 2024, url https://chatgpt.com/share/9d50903b-db37-4ef5-8a14-15b0deb1bb67 [20240708].
+
