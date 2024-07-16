@@ -7,7 +7,7 @@
   {{- range .Params.authors }}
     {{- with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize .)) }}
       <figure class='authors'>
-        <!--img src="{{ .Params.photo }}" alt=""/-->
+        <!--img src="{{ .Params.photo }}" alt=""/ -->
         <figcaption>
           <a href="{{ .Permalink }}">{{ .Params.name }}</a>
         </figcaption>
