@@ -5,6 +5,7 @@ draft = false
 math = true
 tags = ['idea', 'damars', 'daad', 'semarang']
 authors = ['viridi']
+url = '2102'
 +++
 AI-based self assessment: Idea and discussion<!--more-->
 

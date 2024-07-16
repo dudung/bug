@@ -5,6 +5,7 @@ draft = false
 math = true
 tags = ['bytes-und-grains']
 authors = ['viridi']
+url = '2100'
 +++
 Bytes and grains: Create a Hugo-based blog hosted on GitHub<!--more-->
 

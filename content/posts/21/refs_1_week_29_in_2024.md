@@ -5,6 +5,7 @@ draft = false
 math = true
 tags = ['refs', 'reading', 'shelf_0']
 authors = ['viridi']
+url = '2103'
 +++
 Bundle 1 of res during week 29 in year 2024: New habit for reading<!--more-->
 
