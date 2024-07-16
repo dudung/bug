@@ -12,7 +12,7 @@ Bundle 1 of res during week 29 in year 2024: New habit for reading<!--more-->
 
 `16-jul-2024` Informed from Andry Alamsyah in AIDI WhatsApp group about call of book chapter related to LLM on Springer Nature, which is traced back to ResearchGate [^mallick_2024], then ask Ridwan Sutriadi as mentor and informally agrees. He will be the first author and I will be the operator for interaction with LLM, e.g. GPT-4o from OpenAI, Gemini, formerly Bard, from Google, or Perplexity AI, where there might be anothers between us, which depends on the expert in the implementation field. And as preparation there is a list free AI and LLMs playgrounds [^awan_2023], event a chatbot arena [^chiang_2024].
 
-Still at the same day, Edi Wahyu Sri Mulyono requests slide from I Made Wiryana on a DAMARS event [^wiryana_2024] and I also remember his slide from previous year, also a DAMARS event, actually the first one [^wiryana_2023].
+Still at the same day, Edi Wahyu Sri Mulyono requests slide from I Made Wiryana on a DAMARS event [^wiryana_2024] and I also remember his slide from previous year, also a DAMARS event, actually the first one [^wiryana_2023]. Ask also for help about the book [^viridi_2023].
 
 Another topic today is from ₩ Won in Soft Skill Trainers WAG, that sends slide about performing research with help of ChatGPT by Wisnu Jatmiko from Lab 1231 (IRoS) [^jatmiko_2024].
 
@@ -38,4 +38,5 @@ Above links are ordered according to interaction time, starting from the earlies
 [^chiang_2024]: [`s6dzt`](https://osf.io/s6dzt) Wei-Lin Chiang, Lianmin Zheng, Ying Sheng, Anastasios Nikolas Angelopoulos, Tianle Li, Dacheng Li, Hao Zhang, Banghua Zhu, Michael Jordan, Joseph E. Gonzalez, Ion Stoica, "Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference", arXiv:2403.04132v1 [cs.AI] Thu, 7 Mar 2024 01:22:38 UTC, url https://arxiv.org/abs/2403.04132v1 [20240716].
 [^wiryana_2024]: [`tdeua`](https://osf.io/tdeua) I Made Wiryana, "OBE dan MBKMBussiness NOT As Usual", DAMARS, 7 Apr 2024, https://www.instagram.com/damars.daad/ [20240716].
 [^wiryana_2023]: [`bsem7`](https://osf.io/bsem7) I Made Wiryana, "AI bukan hanya ChatGPT: Penggunaan AI untuk pembelajaran dan penelitian", DAMARS, 4 Dec 2023, url https://www.instagram.com/damars.daad/ [20240716].
+[^viridi_2023]: [`rvg3k`](https://osf.io/rvg3k) Sparisoma Viridi, Ramadina Goethe, "Python in Brief", ITB Press, 2023 (draft).
 [^jatmiko_2024]: [`mnv82`](https://osf.io/mnv82) Wisnu Jatmiko, "State of The Art Penelitian dengan ChatGPT", Webinar Lab 1231 (IRoS), 15 Jul 2024, url https://www.youtube.com/@LabTV-1231 [20240716].
