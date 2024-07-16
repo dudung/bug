@@ -15,9 +15,9 @@ It was June 29th, 2024 or about two weeks ago, when the v0.0.0 of remah is relea
 The goals to use two languanges, JavaScript and Python, are
 + easy visualization while searching working parameters using JavaScript,
 + better calculation performance with right parameters using Python,
-+ not-so-difficult change from JavaScript to Phython.
++ not-so-difficult to convert JavaScript to Phython [^haruna_2022].
 
-After defining above goals they, the first two at leas, are confirmed by GPT-4o [^GPT-4o_2024].
+After defining above goals they, the first two at least, are confirmed by GPT-4o [^GPT-4o_2024].
 
 
 ## files and folders
@@ -115,3 +115,4 @@ Two main folders are `src` and `tests` where both JavaScript and Python are plac
 ## notes
 [^remah_0.0.0]: Sparisoma Viridi, "Remah: Mixed modeling approaches, v0.0.0", GitHub, 29 Jun 2024, url https://github.com/dudung/remah/releases/tag/v0.0.0 [20240716].
 [^GPT-4o_2024]: GPT-4o, Sparisoma Viridi, "JavaScript vs Python Simulation", ChatGPT, 16 Jul 2024, url https://chatgpt.com/share/054672b4-6e80-4edc-8f60-6d04c257d948 [20240716].
+[^haruna_2022]: Abba Haruna, "How to convert JavaScript to python", Medkum, 11 Dec 2022, url https://medium.com/p/300702456313 [20240716].
