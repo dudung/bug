@@ -3,7 +3,7 @@ title = 'bytes and grains'
 date = 2024-07-06T19:38:00+07:00
 draft = false
 math = true
-tags = ['bytes-and-grains']
+tags = ['bytes-und-grains']
 authors = ['viridi']
 +++
 Bytes and grains: Create a Hugo-based blog hosted on GitHub<!--more-->
@@ -168,7 +168,7 @@ Visit the repository https://github.com/dudung/bytes-and-grains.
 - It is now successful.
 - But it is not the pages created by Hugo. Try to push something.
 - Visit again the main page of the repository.
-- It seems successful. Then visit https://dudung.github.io/bytes-and-grains/.
+- It seems successful. Then visit ~~https://dudung.github.io/bytes-and-grains/~~ https://dudung.github.io/bug/.
 
 It shows the result as the local server rendered previously.
 

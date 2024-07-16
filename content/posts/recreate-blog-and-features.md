@@ -32,4 +32,4 @@ which is knonw as quadratic formula.
 
 
 ## notes
-[^viridi_2024]: Sparisoma Viridi, "Bytes and grains: Create a Hugo-based blog hosted on GitHub", bytes and grains, 6 Jul 2024, url https://dudung.github.io/bytes-and-grains/posts/bytes-and-grains/ [20240707].
+[^viridi_2024]: Sparisoma Viridi, "Bytes and grains: Create a Hugo-based blog hosted on GitHub", bytes and grains, 6 Jul 2024, url https://dudung.github.io/bug/posts/bytes-and-grains/ [20240707].
