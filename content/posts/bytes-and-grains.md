@@ -187,6 +187,10 @@ After read this story you are able to
 - view deployment result.
 
 
+## update
+`16-jul-2024` In order to get catchy acronym 'bug', it would be renamed from 'Bytes and Grains' to 'Bytes und Grains', which aligns well with interests in programming and technology, is memorable and intriguing, and also subtly reflects multilingual background [^gpt4o_2024a]. The execution might not be immediately, but soon hopefully.
+
+
 ## further readings
 - Christopher Hart, “How to Create a Simple, Free Blog with Hugo and GitHub Pages”, 28 May 2022, url https://chrisjhart.com/Creating-A-Simple-Free-Blog-Hugo/ [20240706].
 - Sarah Helmbrecht, “How to Build a Hugo Blog on GitHub Pages”, 1 Nov 2023, url https://sarahhelmbrecht.com/blog/websitetutorial/ [20240706].
@@ -197,9 +201,9 @@ After read this story you are able to
 
 
 ## notes
-[^gpt4o_2024]: GPT-4o, Sparisoma Viridi, "Dynamic Bytes and Grains", ChatGPT, 06 Jul 2024, url https://chatgpt.com/share/15628c86-a31d-497c-a23e-0d3afb5443a2 [20240707].
+[^gpt4o_2024]: GPT-4o, Sparisoma Viridi, "Dynamic Bytes and Grains", ChatGPT, 6 Jul 2024, url https://chatgpt.com/share/15628c86-a31d-497c-a23e-0d3afb5443a2 [20240707].
 [^Viridi_2023a]: Sparisoma Viridi, "How to create a GitHub Account", Medium, 8 Jul 2023, url https://medium.com/p/46c4a36c2673 [20240707].
 [^Viridi_2023b]: Sparisoma Viridi, "Create a GitHub repository and collaborate", Medium, 16 Jul 2023, url https://medium.com/p/12c1dc10d7d [20240707].
 [^Viridi_2023c]: Sparisoma Viridi, "Installing Git", Medium, 18 Sep 2023, url https://medium.com/p/8d4c29799185 [20240707].
 [^Viridi_2023d]: Sparisoma Viridi, "Installing Hugo", Medium, 18 Sep 2023, url https://medium.com/p/3c8a9cbb791d [20240707].
-
+[^gpt4o_2024a]: GPT-4o, Sparisoma Viridi, "Acronym Änderung für Blog", ChatGPT, 16 Jul 2024, url https://chatgpt.com/share/9dc97635-51d4-4551-9d87-82202f1f405d [20240716].
