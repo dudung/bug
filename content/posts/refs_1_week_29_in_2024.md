@@ -16,7 +16,7 @@ Still at the same day, Edi Wahyu Sri Mulyono requests slide from I Made Wiryana 
 
 Another topic today is from ₩ Won in Soft Skill Trainers WAG, that sends slide about performing research with help of ChatGPT by Wisnu Jatmiko from Lab 1231 (IRoS) [^jatmiko_2024].
 
-And for gaining sweet but motivated dream, a book about Monte Carlo methods [^kalos_2008] is chosen. I do not know how many minutes I can stand for a book, but at least I try this new habit.
+And for gaining sweet but motivated dream, a book about Monte Carlo methods [^kalos_2008] is chosen. I do not know how many minutes I can stand for a book, but at least I try this new habit :sweat_smile:.
 
 
 ## llms
