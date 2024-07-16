@@ -190,6 +190,8 @@ After read this story you are able to
 ## update
 `16-jul-2024` In order to get catchy acronym 'bug', it would be renamed from 'Bytes and Grains' to 'Bytes und Grains', which aligns well with interests in programming and technology, is memorable and intriguing, and also subtly reflects multilingual background [^gpt4o_2024a]. The execution might not be immediately, but soon hopefully.
 
+The repo is renamed today and GitHub Pages &rightarrow; Build and deployment &rightarrow; Source becomes Deploy from a branch. After change it to GitHub Actions, it works again.
+
 
 ## further readings
 - Christopher Hart, “How to Create a Simple, Free Blog with Hugo and GitHub Pages”, 28 May 2022, url https://chrisjhart.com/Creating-A-Simple-Free-Blog-Hugo/ [20240706].
