@@ -16,6 +16,8 @@ Still at the same day, Edi Wahyu Sri Mulyono requests slide from I Made Wiryana 
 
 Another topic today is from ₩ Won in Soft Skill Trainers WAG, that sends slide about performing research with help of ChatGPT by Wisnu Jatmiko from Lab 1231 (IRoS) [^jatmiko_2024].
 
+And for gaining sweet but motivated dream, a book about Monte Carlo methods [^kalos_2008] is chosen. I do not know how many minutes I can stand for a book, but at least I try this new habit.
+
 
 ## llms
 Following are link to various LLMs
@@ -40,3 +42,4 @@ Above links are ordered according to interaction time, starting from the earlies
 [^wiryana_2023]: [`bsem7`](https://osf.io/bsem7) I Made Wiryana, "AI bukan hanya ChatGPT: Penggunaan AI untuk pembelajaran dan penelitian", DAMARS, 4 Dec 2023, url https://www.instagram.com/damars.daad/ [20240716].
 [^viridi_2023]: [`rvg3k`](https://osf.io/rvg3k) Sparisoma Viridi, Ramadina Goethe, "Python in Brief", ITB Press, 2023 (draft).
 [^jatmiko_2024]: [`mnv82`](https://osf.io/mnv82) Wisnu Jatmiko, "State of The Art Penelitian dengan ChatGPT", Webinar Lab 1231 (IRoS), 15 Jul 2024, url https://www.youtube.com/@LabTV-1231 [20240716].
+[^kalos_2008]: [`x94bm`](https://osf.io/x94bm) Malvin H. Kalos, Paula A. Whitlock, "Monte Carlo Methods", Wiley-VCH, 2nd revised enlarged edition, Oct 2018, url https://isbnsearch.org/isbn/9783527407606 [20240716].
