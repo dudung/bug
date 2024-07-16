@@ -14,6 +14,8 @@ Bundle 1 of res during week 29 in year 2024: New habit for reading<!--more-->
 
 Still at the same day, Edi Wahyu Sri Mulyono requests slide from I Made Wiryana on a DAMARS event [^wiryana_2024] and I also remember his slide from previous year, also a DAMARS event, actually the first one [^wiryana_2023].
 
+Another topic today is from ₩ Won in Soft Skill Trainers WAG, that sends slide about performing research with help of ChatGPT by Wisnu Jatmiko from Lab 1231 (IRoS) [^jatmiko_2024].
+
 
 ## llms
 Following are link to various LLMs
@@ -32,7 +34,8 @@ Above links are ordered according to interaction time, starting from the earlies
 [^alghamdi_2024]: [`wn9eq`](https://osf.io/wn9eq) Mona Ahamd Alghamdi, Abdullah S. AL-Malaise AL-Ghamdi, Mahmoud Ragab, "Predicting Energy Consumption Using Stacked LSTM Snapshot Ensemble", Big Data Mining and Analytics [Big Data Min Anal], vol 7, no 2, p 247-270, Jun 2024, url https://doi.org/10.26599/BDMA.2023.9020030. 
 [^cerbus_2024]: [`kfup5`](https://osf.io/kfup5) Rory T. Cerbus, Ludovic Brivady, Thierry Faug, Hamid Kellay, "Granular Scaling Approach to Landslide Runout", Physical Review Letters [Phys Rev Lett], vol 132, no 25, p 254101, Jun 2024, url https://doi.org/10.1103/PhysRevLett.132.254101.
 [^mallick_2024]: [`z5r4x`](https://osf.io/z5r4x) Suraj Kumar Mallick, Jayesh Rane, Chaitanya B. Pande, "Call for Book Chapter Large language models for smart and sustainable urban development", ResearchGate, 11 Jul 2024, url https://www.researchgate.net/publication/382150946 [20240716].
-[^awan_2023]: Abid Ali Awan, "8 Free AI and LLMs Playgrounds", KDnuggets, 12 May 2023, url https://www.kdnuggets.com/2023/05/8-free-ai-llms-playgrounds.html [20240716].
+[^awan_2023]: `ninfo` Abid Ali Awan, "8 Free AI and LLMs Playgrounds", KDnuggets, 12 May 2023, url https://www.kdnuggets.com/2023/05/8-free-ai-llms-playgrounds.html [20240716].
 [^chiang_2024]: [`s6dzt`](https://osf.io/s6dzt) Wei-Lin Chiang, Lianmin Zheng, Ying Sheng, Anastasios Nikolas Angelopoulos, Tianle Li, Dacheng Li, Hao Zhang, Banghua Zhu, Michael Jordan, Joseph E. Gonzalez, Ion Stoica, "Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference", arXiv:2403.04132v1 [cs.AI] Thu, 7 Mar 2024 01:22:38 UTC, url https://arxiv.org/abs/2403.04132v1 [20240716].
 [^wiryana_2024]: [`tdeua`](https://osf.io/tdeua) I Made Wiryana, "OBE dan MBKMBussiness NOT As Usual", DAMARS, 7 Apr 2024, https://www.instagram.com/damars.daad/ [20240716].
 [^wiryana_2023]: [`bsem7`](https://osf.io/bsem7) I Made Wiryana, "AI bukan hanya ChatGPT: Penggunaan AI untuk pembelajaran dan penelitian", DAMARS, 4 Dec 2023, url https://www.instagram.com/damars.daad/ [20240716].
+[^jatmiko_2024]: [`mnv82`](https://osf.io/mnv82) Wisnu Jatmiko, "State of The Art Penelitian dengan ChatGPT", Webinar Lab 1231 (IRoS), 15 Jul 2024, url https://www.youtube.com/@LabTV-1231 [20240716].
