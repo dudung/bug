@@ -11,7 +11,8 @@ Solid waste incinerator: Discussion and plan<!--more-->
 
 
 ## slide
-+ Introduction 3
-+ Sensor calibration 10
-+ Discussion 14
-+ Estuaries blue carbon capture 17
+- url https://osf.io/thpfy
+  + Introduction 3
+  + Sensor calibration 10
+  + Discussion 14
+  + Estuaries blue carbon capture 17
