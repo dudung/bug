@@ -8,7 +8,16 @@
 <script>
 function main() {
   let users = [
+    {id: '30223008', name: "Nila Prasetya Aryani", osf:'keh9y'},
+    {id: '30222003', name: "Setiya Rahayu", osf:'bkcpe'},
     {id: '28720005', name: "Achmad Zacky Fairuza", osf:'47cbs'},
+    {id: '20922327', name: "Dyah Puspita Sari Nilam Utami", osf:'6mgkc'},
+    {id: '20922324', name: "Listyani Nirmalasari", osf:'fbezq'},
+    {id: '20922313', name: "Akhmad Faeda Insani", osf:'jkt5w'},
+    {id: '20922308', name: "Muhammad Ghafur Abdulah Winata Santana", osf:'s6kym'},
+    {id: '20922307', name: "Ahmad Mushawir", osf:'3x67v'},
+    {id: '10220035', name: "Ahmad Rinaldi Arbie", osf:'swczh'},
+    {id: '10220029', name: "Jesse Owen", osf:'mdrhs'},
     {id: '10216104', name: "Nadhira Azzahra Hendra", osf:'8b23r'},
   ]
   let div = document.getElementById("{{ $id }}");
@@ -19,14 +28,14 @@ function main() {
     n--;
     let url = "https://osf.io/" + u.osf;
     let t = "<a style='font-family:Consolas;' href='" + url +"'>" + u.osf + "</a>";
-    t += " ";
+    t += "<span style='color:#faa; font-size:80%; font-family:Consolas;'>:</span>";
     t += "<span style='font-family:Consolas; color:#6b6; font-size:90%'>" + u.id + "</span>";
     t += " ";
     t += "<span>" + u.name + "</span>";
     text += t;
     
     console.log(n);
-    if(n > 0) text += ", "; else text += ".";
+    if(n > 0) text += " &bull; "; else text += "";
   }
   div.innerHTML = text;
 }

@@ -7,6 +7,6 @@ tags = []
 url = '0003'
 authors = ['viridi']
 +++
-Some users that cross their path with me<!--more-->
+Some users that cross the path<!--more-->
 
 {{< users >}}
