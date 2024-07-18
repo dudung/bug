@@ -1,0 +1,35 @@
+{{ $seed := "foo" }}
+{{ $id := delimit (shuffle (split (md5 $seed) "" )) "" }}
+
+<div style="width:100%;">
+<div id="{{ $id }}"></div>
+</div>
+
+<script>
+function main() {
+  let users = [
+    {id: '28720005', name: "Achmad Zacky Fairuza", osf:'47cbs'},
+    {id: '10216104', name: "Nadhira Azzahra Hendra", osf:'8b23r'},
+  ]
+  let div = document.getElementById("{{ $id }}");
+  
+  let n = users.length;
+  let text = "";
+  for(let u of users) {
+    n--;
+    let url = "https://osf.io/" + u.osf;
+    let t = "<a style='font-family:Consolas;' href='" + url +"'>" + u.osf + "</a>";
+    t += " ";
+    t += "<span style='font-family:Consolas; color:#6b6; font-size:90%'>" + u.id + "</span>";
+    t += " ";
+    t += "<span>" + u.name + "</span>";
+    text += t;
+    
+    console.log(n);
+    if(n > 0) text += ", "; else text += ".";
+  }
+  div.innerHTML = text;
+}
+
+main();
+</script>
