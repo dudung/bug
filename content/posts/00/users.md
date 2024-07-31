@@ -12,19 +12,19 @@ Some users that cross the path<!--more-->
 
 ## 2023-2
 - `wed 07-aug-2024`\
-`1300 10220070` Audrey Lynn Johanes (FH, RSHS-AO) 
+`1300` Audrey Lynn Johanes (FH, RSHS-AO) 
 
 - `tue 06-aug-2024` \
-`1545 10220011` Bernard Sujono (UF) \
-`1300 10219077` Dwita Gurning Dwita (RW, SV) \
-`1000 10220005` Muhammad Ihsan (UF, RQ) \
-`0800 10220022` Angeli Fransika Njo (SV, WD)
+`1545` Bernard Sujono (UF) \
+`1300` Dwita Gurning Dwita (RW, SV) \
+`1000` Muhammad Ihsan (UF, RQ) \
+`0800` Angeli Fransika Njo (SV, WD)
 
 - `fri 02-aug-2024` \
-`1300 10220051` Ermas Hidayati (ID, RQ) &cross;
+`1300` Ermas Hidayati (ID, RQ) &cross;
 
 - `thu 01-aug-2024` \
-`1300 10220037` Berlian Oka Irvianto (NA) \
-`1000 20922009` Muh. Afdal Abidin (MA-IK)
+`1300` Berlian Oka Irvianto (NA) \
+`1000` Muh. Afdal Abidin (MA-IK)
 
 {{< users/y2023s2 >}}
