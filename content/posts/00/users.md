@@ -20,6 +20,9 @@ Some users that cross the path<!--more-->
 `1000` Muhammad Ihsan (UF, RQ) \
 `0800` Angeli Fransika Njo (SV, WD)
 
+- `mon 05-aug-2024 \
+`1400` Geolita Ihsantia Ning Asih (EB-IS)
+
 - `fri 02-aug-2024` \
 `1300` Ermas Hidayati (ID, RQ) &cross;
 
