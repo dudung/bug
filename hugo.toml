@@ -7,6 +7,9 @@ enableEmoji = true
 
 #disableKinds = ["taxonomyTerm"]
 
+# 20240805 an der Uni
+ignoreErrors = ['error-missing-instagram-accesstoken']
+
 [taxonomies]
   author = "authors"
   tag = "tags"
@@ -18,3 +21,4 @@ enableEmoji = true
   weight = 1
   identifier = 'home'
   url = '/'
+
