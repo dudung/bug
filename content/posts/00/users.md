@@ -11,7 +11,10 @@ Some users that cross the path<!--more-->
 
 
 ## 2023-2
-- `wed 07-aug-2024`\
+- `fri 16-aug-2024` \
+`0900` Alfin Nurul Afifah (FH)
+
+- `wed 07-aug-2024` \
 `1300` Audrey Lynn Johanes (FH, RSHS-AO) 
 
 - `tue 06-aug-2024` \
