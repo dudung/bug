@@ -19,7 +19,7 @@ Some users that cross the path<!--more-->
 
 - `tue 06-aug-2024` \
 `1545` Bernard Sujono (UF) \
-`1300` Dwita Gurning Dwita (RW, SV) \
+`1300` [`C-UVoVhS5Vz`](https://www.instagram.com/p/C-UVoVhS5Vz) Dwita Gurning Dwita (RW, SV) &check; \
 `1000` [`C-UAtKgyLG5`](https://www.instagram.com/p/C-UAtKgyLG5) Muhammad Ihsan (UF, RQ) &check; \
 `0800` [`C-TySb7y8A4`](https://www.instagram.com/p/C-TySb7y8A4) Angeli Fransika Njo (SV, WD) &check;
 
