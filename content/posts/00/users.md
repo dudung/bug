@@ -15,10 +15,10 @@ Some users that cross the path<!--more-->
 `0900` Alfin Nurul Afifah (FH)
 
 - `wed 07-aug-2024` \
-`1300` Audrey Lynn Johanes (FH, RSHS-AO) 
+`1300` [`C-W6WH4yeP5`](https://www.instagram.com/p/C-W6WH4yeP5) Audrey Lynn Johanes (FH, RSHS-AO) &check;
 
 - `tue 06-aug-2024` \
-`1545` [`C-UpYCMS11m`](https://www.instagram.com/6unpnp/p/C-UpYCMS11m/) Bernard Sujono (UF) &check; \
+`1545` [`C-UpYCMS11m`](https://www.instagram.com/p/C-UpYCMS11m) Bernard Sujono (UF) &check; \
 `1300` [`C-UVoVhS5Vz`](https://www.instagram.com/p/C-UVoVhS5Vz) Dwita Gurning Dwita (RW, SV) &check; \
 `1000` [`C-UAtKgyLG5`](https://www.instagram.com/p/C-UAtKgyLG5) Muhammad Ihsan (UF, RQ) &check; \
 `0800` [`C-TySb7y8A4`](https://www.instagram.com/p/C-TySb7y8A4) Angeli Fransika Njo (SV, WD) &check;
