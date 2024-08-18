@@ -26,7 +26,7 @@ $$
 which depends on today activity $A_t$ and previous ones $A_{t-1}$, $A_{t-2}$, .., and also some other factors stored in $\bf X $. The previous activitis $A_{t-1}$, $A_{t-2}$, .., contribute to current remaining energy in the agent to perform today activity $A_t$. The Energy depends on the supply $S$ and the use $U$
 
 $$\tag{2}
-E_t = E_{t-1} + S_t - A_t.
+E_t = E_{t-1} + S_t - A_t + R_t.
 $$
 
 For simplicity it does not count hourly activities, which can be more complex. Then the model can be used only in the morning to predict the whole day motivation. It is also assumed that the motivation does not decay in the day.
@@ -36,7 +36,27 @@ Now it is 0646 and pause for nasi goreng cooked by jonja-sama and it is still 2 
 Equation (2) can be modified with parameters to weight the terms as follow
 
 $$\tag{3}
-E_t = a E_{t-1} + b S_t - c A_t,
+E_t = a E_{t-1} + b S_t - c A_t + d R_t,
 $$
 
-since each term might not be proportional to each other. With parameters $a$, $b$, and $c$ the value $S_t$ and $A_t$ can be now just count of the terms. By the way it is now 3 min read at 0704. Update GitHub for this post.
+since each term might not be proportional to each other. With parameters $a$, $b$, and $c$ the value $S_t$, $A_t$, and $R_t$ can be now just count of the terms. By the way it is now 3 min read at 0704. Update GitHub for this post.
+
+Or the term $S_t$ can be described in details
+
+$$\tag{4}
+S_t = \sum_i a_i F_i,
+$$
+
+where $a_i$ is portion or energy of food $F_i$, e.g. in kkal as given in the food packages. Then unit of $a_i$ should be $\rm J/kcal$. And for rest or relaxing $R_t$ it can be
+
+$$\tag{5}
+R_t = \sum_i d_i R_i,
+$$
+
+where $R_i$ in $\rm hours$ and $d_i$ is quality of the activity, which has unit of $\rm J/hours$. The total normal value of $R_i$ about $8 \rm hours$ for normal activities in previous days or more if the activities are so intense.
+
+It is now 0711 and die Alte not yet come back after mitbringen die Junge to ID championship on the Three. There are Sunday street market and CFD rerouting the common path from home to the destination.
+
+Back to Equations (4) and (5) it seems that the details should have relation with the accumation parameter but not the same. Equation (5) is clear that they are related, but same symbols could lead to confusion, while Equation (4) is clear that not the same, but it is hard to relat $F_i$ to $S_t$. And the lower index $t$ for time and $i$ for detail component might also introduce confusion.
+
+It is 0716 and already 4 min read. Update GitHub.
