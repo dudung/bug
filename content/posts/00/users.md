@@ -11,8 +11,17 @@ Some users that cross the path<!--more-->
 
 
 ## 2023-2
+- `thu 22-aug-2024` \
+`0800` M Isnaenda Ihsan (AS-MIA)
+
+- `tue 20-aug-2024` \
+`1000` Revanka Mulya (SV, NH)
+
+
 - `fri 16-aug-2024` \
-`0900` Alfin Nurul Afifah (FH)
+`1330` Riyadi Adnan Mahmud (IM) \
+`0900` Alfin Nurul Afifah (FH) \
+`0730` Nazla Innayan (AI, SV)
 
 - `wed 07-aug-2024` \
 `1300` [`C-W6WH4yeP5`](https://www.instagram.com/p/C-W6WH4yeP5) Audrey Lynn Johanes (FH, RSHS-AO) &check;
