@@ -60,3 +60,16 @@ It is now 0711 and die Alte not yet come back after mitbringen die Junge to ID c
 Back to Equations (4) and (5) it seems that the details should have relation with the accumation parameter but not the same. Equation (5) is clear that they are related, but same symbols could lead to confusion, while Equation (4) is clear that not the same, but it is hard to relat $F_i$ to $S_t$. And the lower index $t$ for time and $i$ for detail component might also introduce confusion.
 
 It is 0716 and already 4 min read. Update GitHub.
+
+For energy supply or $S$ since human can only obtain it from food than the term food or other alternatives must be considered. Some terms that cross my mind are as follow.
+
+Symbol | Meanining | Candidates | Unit
+:- | :- | :- | :-
+S | Energy supply | energy sources | J
+(?) | Element of energy sources | Food, Events (Breakfast, morning coffee, lunch, afternoon break, dinner, etc), .. | J/kkal
+
+I can not think right away. The purpose just to write something became too serious and exhausted. Perhaps it is not a way to relax in the weekend? I am sure anymore. Die Alte is still on the way. Bauchschmerzen, not yet ka air. From Saparua first. It is now 0732 after communcating via WA.
+
+Take rest with reading manga is that I want to do right now, but until it is a 4 mins read post first and not yet. Keep on writing, even it is not so important to write. Quantity over quality. Too bad to be in such stage in the weeken. Usually it is golden time to work on something.
+
+Finally it is a 5 mins read one. Now it is 0734. Update GitHub for this post.
