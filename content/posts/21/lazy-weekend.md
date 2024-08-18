@@ -31,4 +31,12 @@ $$
 
 For simplicity it does not count hourly activities, which can be more complex. Then the model can be used only in the morning to predict the whole day motivation. It is also assumed that the motivation does not decay in the day.
 
-Now it is 0646 and pause for nasi goreng cooked by jonja-sama and it is still 2 min read.
+Now it is 0646 and pause for nasi goreng cooked by jonja-sama and it is still 2 min read. Now it is 0700 and start again the non-sense writing and it is still 2 min read.
+
+Equation (2) can be modified with parameters to weight the terms as follow
+
+$$\tag{3}
+E_t = a E_{t-1} + b S_t - c A_t,
+$$
+
+since each term might not be proportional to each other. With parameters $a$, $b$, and $c$ the value $S_t$ and $A_t$ can be now just count of the terms. By the way it is now 3 min read at 0704. Update GitHub for this post.
