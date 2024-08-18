@@ -73,3 +73,17 @@ I can not think right away. The purpose just to write something became too serio
 Take rest with reading manga is that I want to do right now, but until it is a 4 mins read post first and not yet. Keep on writing, even it is not so important to write. Quantity over quality. Too bad to be in such stage in the weeken. Usually it is golden time to work on something.
 
 Finally it is a 5 mins read one. Now it is 0734. Update GitHub for this post.
+
+Start again at 1252 after luch with previous nasi goreng, which is actually nasi mawut. Previous rest is not fully recovered but better. Not yet fully motivated yet.
+
+A revelation might be considered as taught but not applied consciously
+
+> Data obtained from daily life is in general unstructured, then do not force yourself to structure it, even in the form of slides, posts, codes, or other forms.
+
+There are previous attempts as o, nou, to etc as in [0000](../0000) and [0002](../0002). I forget about a post that resume all previous posts and blogs. For features there is [2001](../2001) as I try to develop to, which is a 9 mins read post, integrated raw to bug. The 2001 is not what I mean, but it can be considered in the direction to the forgotten post.
+
+Try to resist the tempation for sleeping again, at least to achieve more minute, or a 6 mins read. Now it is 1311.
+
+Just let it flow, write everything or words that cross my mind, even they do not build in integrated context. You might not read this writing after this since it might confuse you and it teaches but noting as a confuse writer work while build the motivation for further work. Prepare for the monday routines.
+
+Finally, it is 1313 and it is now 6 mins read. Yey! Pause a little bit. Target this evening 10 mins? Or is it to far? Let's see.
