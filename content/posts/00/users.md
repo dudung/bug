@@ -12,10 +12,10 @@ Some users that cross the path<!--more-->
 
 ## 2023-2
 - `thu 22-aug-2024` \
-`0800` M Isnaenda Ihsan (AS-MIA)
+`0800` Muhammad Isnaenda Ihsan (AS-MIA)
 
 - `tue 20-aug-2024` \
-`1000` Revanka Mulya (SV, NH)
+`1300` Revanka Mulya (SV, NH)
 
 
 - `fri 16-aug-2024` \
