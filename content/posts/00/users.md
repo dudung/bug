@@ -20,8 +20,8 @@ Some users that cross the path<!--more-->
 
 - `fri 16-aug-2024` \
 `1330` [`C-uJGHKSgLd`](https://www.instagram.com/p/C-uJGHKSgLd) Riyadi Adnan Mahmud (IM) \
-`0900` [`C-tq0Jmys5E`](https://www.instagram.com/p/C-tq0Jmys5E) Alfin Nurul Afifah (FH) \
-`0730` [`C-thFcISrss`](https://www.instagram.com/p/C-thFcISrss) Nazla Innayah (AI, SV)
+`0900` [`C-tq0Jmys5E`](https://www.instagram.com/p/C-tq0Jmys5E) Alfin Nurul Afifah (FH) &check; \
+`0730` [`C-thFcISrss`](https://www.instagram.com/p/C-thFcISrss) Nazla Innayah (AI, SV) &check;
 
 - `wed 07-aug-2024` \
 `1300` [`C-W6WH4yeP5`](https://www.instagram.com/p/C-W6WH4yeP5) Audrey Lynn Johanes (FH, RSHS-AO) &check;
