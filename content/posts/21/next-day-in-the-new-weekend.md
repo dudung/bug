@@ -37,7 +37,11 @@ Density $\rho_i$ at particle $i$ whose position $\vec{r}_i$ is
 $$ \tag{2}
 \rho_i = \sum_j m_j W(r_{ij}, h)
 $$
-
+dive solutions GmbH
 where $m_j$ is mass of a neighboring particle $j$, $W$ is kernel function, $r_{ij}$ is relative distance of particle $i$ from a neighboring particle $j$, and $h$ is a smoothing length.
 
 that is computed by summing contribution from neighboring particles with the smoothing length $h$
+
+
+## reading materials
++ Simone Sommavilla, "Smoothed Particle Hydrodynamics: A Guided Journey into the Basics of the SPH Method", Dive solutions GmbH, Dec 2020, url https://www.divecae.com/resources/sph-basics [20240820].
