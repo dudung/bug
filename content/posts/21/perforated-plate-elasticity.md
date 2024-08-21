@@ -20,3 +20,9 @@ To collect data from tensile test study<!--more-->
   - Research focus 10
   - Expected outcomes 16
   - Discussion 19
+  
+
+## todo
+- Check laser cutting service, specifications and prices.
+- Check tensile test machine limitation.
+- Thickness of acrylic plate 2, 3, 4 mm.
