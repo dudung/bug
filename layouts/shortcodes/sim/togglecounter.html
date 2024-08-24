@@ -1,0 +1,39 @@
+{{ $intext := ( .Inner | chomp) }}
+{{ $seed := "foo" }}
+{{ $id := delimit (shuffle (split (md5 $seed) "" )) "" }}
+
+<div id="{{ $id }}"></div>
+
+<script>
+let text = {{ $intext }};
+let lines = text.split('\r\n');
+lines.shift();
+
+let dict = {};
+for(l of lines) {
+  let vals = l.split(" ");
+  let key = vals.shift();
+  dict[key] = vals;
+}
+
+let cmin = parseInt(dict["count"][0]);
+let cmax = parseInt(dict["count"][1]);
+
+let cap1 = dict["bttn1"][0];
+let cap2a = dict["bttn2"][0];
+let cap2b = dict["bttn2"][1];
+
+let btn1 = document.createElement("button");
+btn1.innerHTML = cap1;
+
+let btn2 = document.createElement("button");
+btn2.innerHTML = cap2a;
+
+let div = document.getElementById("{{ $id }}");
+div.appendChild(btn1);
+div.appendChild(btn2);
+
+
+
+</script>
+</div>
