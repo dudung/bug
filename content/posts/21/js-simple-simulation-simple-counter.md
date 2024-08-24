@@ -1,3 +1,40 @@
++++
+title = 'js simple simulation simple counter'
+date = 2024-08-24T05:26:00+07:00
+draft = false
+math = true
+tags = ['js', 'simulation', 'physics']
+authors = ['viridi']
+url = '2111'
++++
+Simple simulation using JS<!--more-->
+
+
+## simple counter
+{{< sim/togglecounter >}}
+count 150 200
+bttn1 Reset
+bttn2 Start Stop
+intms 100
+{{< /sim/togglecounter >}}
+
+Problem: Can not have multiple instances in one page (24-aug-2024).
+
+
+## hugo post
+```go
+{{</* sim/togglecounter */>}}
+count 150 200
+bttn1 Reset
+bttn2 Start Stop
+intms 100
+{{</* /sim/togglecounter */>}}
+
+```
+
+
+## shortcode
+```html
 {{ $intext := ( .Inner | chomp) }}
 {{ $seed := "foo" }}
 {{ $id := delimit (shuffle (split (md5 $seed) "" )) "" }}
@@ -84,3 +121,4 @@ function counting() {
 
 </script>
 </div>
+```
