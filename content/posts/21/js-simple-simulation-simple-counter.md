@@ -122,3 +122,8 @@ function counting() {
 </script>
 </div>
 ```
+
+
+## todo
++ Advance current version to be able to have multiple instances in a page.
++ Proposed solution is using temporary variables related to random id.
