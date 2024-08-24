@@ -25,15 +25,41 @@ let cap2b = dict["bttn2"][1];
 
 let btn1 = document.createElement("button");
 btn1.innerHTML = cap1;
+btn1.disabled = true;
+btn1.addEventListener("click", resetCount);
 
 let btn2 = document.createElement("button");
 btn2.innerHTML = cap2a;
+btn2.addEventListener("click", toggleStartStop);
+
+let count = document.createElement("span");
+count.innerHTML = cmin;
+count.style.paddingLeft = "0.5em";
 
 let div = document.getElementById("{{ $id }}");
 div.appendChild(btn1);
 div.appendChild(btn2);
+div.appendChild(count);
 
+function resetCount(e) {
+  let state = e.target.disabled;
+  if(!state) {
+    e.target.disabled = true;
+    btn2.innerHTML = cap2a;
+    count.innerHTML = cmin;
+  }
+}
 
+function toggleStartStop(e) {
+  let state = e.target.innerHTML;
+  if(state == cap2a) {
+    e.target.innerHTML = cap2b;
+    btn1.disabled = true;
+  } else {
+    e.target.innerHTML = cap2a;
+    btn1.disabled = false;
+  }
+}
 
 </script>
 </div>
