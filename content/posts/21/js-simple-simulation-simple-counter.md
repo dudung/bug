@@ -3,7 +3,7 @@ title = 'js simple simulation simple counter'
 date = 2024-08-24T05:26:00+07:00
 draft = false
 math = true
-tags = ['hugo', 'shortcode']
+tags = ['shortcode']
 authors = ['viridi']
 url = '2111'
 +++

@@ -4,10 +4,20 @@
 {{ $id := default $rid (.Get "id") }}
 {{ $w := default "100" (.Get "width") }}
 {{ $h := default "300" (.Get "height") }}
-{{ $r := ( .Inner | chomp) }}
+{{ $r := ( .Inner | chomp ) }}
 
-<textarea id="{{$id}}" style="width:{{$w}}px; height:{{$h}}px; margin:0 auto; overflow-Y:scroll">
+<div>
+<textarea id="{{ $id }}"
+ style="width: {{ $w }}px;
+        height: {{ $h }}px;
+        margin: 0 auto;
+        overflow-Y: scroll;"
+>
 </textarea>
+</div>
 
 <script src="{{ .Site.BaseURL }}/js/text.js"></script>
 
+<script>
+writeToTextarea("{{ $id }}", {{ $r }});
+</script>
