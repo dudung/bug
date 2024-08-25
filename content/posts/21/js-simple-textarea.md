@@ -12,5 +12,7 @@ Simple textarea for simulation input<!--more-->
 
 ## simple textarea
 {{< sim/textarea id="ta0" width="200" height="100" >}}
-
+MASS 1.5
+VOLM 1.25
+DENS
 {{< /sim/textarea >}}
