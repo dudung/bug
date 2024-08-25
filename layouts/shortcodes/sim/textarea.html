@@ -1,0 +1,14 @@
+{{ $seed := "foo" }}
+{{ $rid := delimit (shuffle (split (md5 $seed) "" )) "" }}
+
+{{ $id := default $rid (.Get "id") }}
+{{ $w := default "100" (.Get "width") }}
+{{ $h := default "300" (.Get "height") }}
+{{ $r := ( .Inner | chomp) }}
+
+<textarea id="{{$id}}" style="width:{{$w}}px; height:{{$h}}px; margin:0 auto; overflow-Y:scroll">
+</textarea>
+
+
+<script>
+</script>
