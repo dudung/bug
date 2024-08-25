@@ -74,7 +74,7 @@ writeToTextarea("{{ $id }}", {{ $r }});
   Sparisoma Viridi | https://github.com/dudung
   
   20240825 Start this collection of functions
-  + countOccurrences(str, word) -- Joel Olawanle
+  + countOccurrences(str, word) -- Joel Olawanle (not yet used)
   + getEOLChar(text) -- Sparisoma Viridi
   + writeToTextarea(id, content) -- Sparisoma Viridi
 */
