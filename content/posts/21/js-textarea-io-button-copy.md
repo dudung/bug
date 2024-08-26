@@ -1,5 +1,5 @@
 +++
-title = 'js textarea i/o'
+title = 'js textarea i/o button copy'
 date = 2024-08-26T16:32:00+07:00
 draft = false
 math = true
