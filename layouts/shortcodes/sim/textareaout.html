@@ -1,0 +1,25 @@
+{{ $seed := "foo" }}
+{{ $rid := delimit (shuffle (split (md5 $seed) "" )) "" }}
+
+{{ $id := default $rid (.Get "id") }}
+{{ $src := default "taIn" (.Get "src") }}
+{{ $w := default "100" (.Get "width") }}
+{{ $h := default "300" (.Get "height") }}
+{{ $r := ( .Inner | chomp ) }}
+
+<div>
+<textarea id="{{ $id }}"
+ style="width: {{ $w }}px;
+        height: {{ $h }}px;
+        margin: 0 auto;
+        overflow-Y: scroll;"
+>
+</textarea>
+</div>
+
+<script src="{{ .Site.BaseURL }}/js/text.js"></script>
+
+<script>
+let content = readFromTextarea("{{ $src }}")
+writeToTextarea("{{ $id }}", content);
+</script>
