@@ -4,6 +4,9 @@
   
   Sparisoma Viridi | https://github.com/dudung
   
+  20240826 Contintue this collection.
+  + readFromTextarea(id) -- Sparisoma Viridi
+  
   20240825 Start this collection of functions
   + countOccurrences(str, word) -- Joel Olawanle (not yet used)
   + getEOLChar(text) -- Sparisoma Viridi
@@ -12,17 +15,36 @@
 
 
 /*
+  Read content of textarea id
+  Sparisoma Viridi
+  20240826
+*/
+function readFromTextarea(id) {
+  let el = document.getElementById(id);
+  let content = el.value;
+  return content;
+}
+
+
+/*
   Write text to a textarea with id
   Sparisoma Viridi
-  20240825
+  20240825 Create this.
+  20240826 Change join('\n\) to join(eol).
 */
 function writeToTextarea(id, content) {
   let eol = getEOLChar(content);
   let el = document.getElementById(id);
-  let lines = content.split(eol);
-  if(lines[0] == "") lines.shift();
-  let text = lines.join("\n");
-  el.value = text;
+  let peol = content.indexOf(eol);
+  
+  if(peol == 0) {
+    let lines = content.split(eol);
+    if(lines[0] == "") lines.shift();
+    let text = lines.join(eol);
+    el.value = text;
+  } else {
+    el.value = content;
+  }
 }
 
 
