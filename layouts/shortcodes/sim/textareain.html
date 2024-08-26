@@ -1,0 +1,24 @@
+{{ $seed := "foo" }}
+{{ $rid := delimit (shuffle (split (md5 $seed) "" )) "" }}
+
+{{ $id := default $rid (.Get "id") }}
+{{ $w := default "100" (.Get "width") }}
+{{ $h := default "300" (.Get "height") }}
+{{ $l := default "Input" (.Get "caption") }}
+{{ $r := ( .Inner | chomp ) }}
+
+<div>
+<span style="display: block;">{{ $l }}</span>
+<textarea
+  style="width: {{ $w }}px;
+    height: {{ $h }}px;
+    margin: 0 auto;
+   overflow-Y: scroll;"
+  id="{{ $id }}"></textarea>
+</div>
+
+<script src="{{ .Site.BaseURL }}/js/text.js"></script>
+
+<script>
+writeToTextarea("{{ $id }}", {{ $r }});
+</script>

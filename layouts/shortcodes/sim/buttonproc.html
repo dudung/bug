@@ -1,0 +1,19 @@
+{{ $seed := "foo" }}
+{{ $rid := delimit (shuffle (split (md5 $seed) "" )) "" }}
+
+{{ $id := default $rid (.Get "id") }}
+{{ $in := default "input" (.Get "in") }}
+{{ $out := default "output" (.Get "out") }}
+{{ $l := default "Process" (.Get "caption") }}
+
+<div>
+<button id="{{ $id }}" onclick="copy('{{ $in }}', '{{ $out }}');">{{ $l }}</button>
+</div>
+
+<script src="{{ .Site.BaseURL }}/js/text.js"></script>
+<script src="{{ .Site.BaseURL }}/js/process.js"></script>
+<script>
+function copy(src, dest) {
+    writeToTextarea(dest, readFromTextarea(src));
+}
+</script>
