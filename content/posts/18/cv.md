@@ -1,5 +1,5 @@
 +++
-title = 'CV'
+title = 'cv'
 date = 2024-01-22T12:25:10+07:00
 draft = false
 url = '1821'
