@@ -29,6 +29,36 @@ Soft computing or AI | Artificial Intelligent (ANN, SVM, GA)
 \* Further discussion to the creator of RPMK is required for the interpretation.
 
 
+## courses
+There are some relations to other courses, where a scheme is as follow.
+
+{{< mermaid >}}
+flowchart TD
+  WI1102 --> WI2002 --> FI2151 & FI3271 & FI3263
+  WI1102 --> FI3103 --> FI3203 & FI3172
+  subgraph " "
+    FI2151
+    FI3271
+    FI3263
+  end
+  subgraph " "
+    FI3203
+    FI3172
+  end
+  %%
+  WI1102["WI1102<br>Computational<br>Thinking"]
+  WI2002["WI2002<br>Artificial<br>Intelligence and<br>Data Literacy"]
+  FI2151["FI2151<br>Modeling,<br>Data Generator<br>and Analysis"]
+  FI3103["FI3103<br>Computational<br>Methods"]
+  FI3172["FI3172<br>Computation of<br>granular and<br>physical system"]
+  FI3203["FI3203<br>Simulation and<br>Modelling of<br>Physical Systems"]
+  FI3263["FI3263<br>Artificial<br>Intelligence and<br>Earths Nonlinearity"]
+  FI3271["FI3271<br>Data Analysis<br>with Machine<br>Learning"]
+{{< /mermaid >}}
+
+Other schemas might be also defined.
+
+
 ## archive
 There are one version of lecture notes and three collections of students projects and examples.
 
@@ -89,7 +119,8 @@ There are one version of lecture notes and three collections of students project
 ## notes
 + It seems that both courses are the same.
 + New course is focused on the method that might have not physical system as the examples.
-+ There is another course that is continuation of this course, e.g. Computational of Physical System.
++ There is another course that is continuation of this course, e.g. Computational of Physical System or Computation of Granular Sytem.
++ In the collections there are also examples from the other courses.
 
 
 ## refs
