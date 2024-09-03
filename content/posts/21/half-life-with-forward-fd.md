@@ -9,7 +9,12 @@ url = '2118'
 +++
 Forward finite difference formula to obtain consistent half-life<!--more-->
 
-[^yew_2011], [^simon_2024], [^bashyal_2023], [^turito_2022].
+Half-life refers to time required for a given quantity to decrease from its initial value to half [^bashyal_2023]. This concept plays important role in understanding the decay or radioactive substances in nuclear physics and it is also used by scientists to measure age of ancient artifacts through carbon dating [^simon_2024]. In a first order reaction the half-life unrestrained by the concentration of the reactant, but the half-lives of reactions with other orders hang on the concentrations of the reactants at the same time [^turito_2022]. While solving the equation in discrete form, e.g. using Finite Difference (FD) method [^yew_2011], chosen time step $\Delta t$ will influence the quantity, which does not match the half-time. One way to overcome the problem is given here in brief.
+
+
+## derivation
+..
+
 
 ## refs
 [^bashyal_2023]: Jyoti Bashyal, "Half-life Formula: Derivation, Application, Examples", Science Info, 13 Jun 2023, url https://scienceinfo.com/half-life-formula-derivation/ [20240830].
