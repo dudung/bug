@@ -13,18 +13,20 @@ Archive for computational physics might be used in computational method<!--more-
 ## materials
 Comparison between the courses Computational Method [^curr_2024] and Computational Physics [^curr_2019] is as follow.
 
-2024 | &nbsp;&nbsp;&nbsp; | 2019
-:- | :-: | :-
-Computational thinking | | Introduction to Computational Physics
-Pseudocode-algorithm | | Concepts of algorithms
-Finding the roots of an equation | | Root of equation
-Tangent line to the curve (\*) | | Curve Fitting and interpolation
-Matrix algebra operations | | Matrix
-Linear programming solutions | | System of Linear Equations
-Eigenproblem | | Numerical eigenvalues
-Optimization | | Optimation
-Solutions to ODE and PDE | | Integration (RK4) dan differentiation (RD)
-Soft computing or AI | | Artificial Intelligent (ANN, SVM, GA)
+2024 | 2019
+:- | :-
+Computational thinking | Introduction to Computational Physics
+Pseudocode-algorithm | Concepts of algorithms
+Finding the roots of an equation | Root of equation
+Tangent line to the curve (\*) | Curve Fitting and interpolation
+Matrix algebra operations | Matrix
+Linear programming solutions | System of Linear Equations
+Eigenproblem | Numerical eigenvalues
+Optimization | Optimation
+Solutions to ODE and PDE | Integration (RK4) dan differentiation (RD)
+Soft computing or AI | Artificial Intelligent (ANN, SVM, GA)
+
+\* Further discussion to the creator of RPMK is required for the interpretation.
 
 ## archive
 + [^viridi_2016a]
