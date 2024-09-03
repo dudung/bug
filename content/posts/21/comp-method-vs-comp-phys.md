@@ -26,7 +26,17 @@ Optimization | | Optimation
 Solutions to ODE and PDE | | Integration (RK4) dan differentiation (RD)
 Soft computing or AI | | Artificial Intelligent (ANN, SVM, GA)
 
+## archive
++ [^viridi_2016a]
++ [^viridi_2015]
++ [^viridi_2016b]
++ [^viridi_2017]
+
 
 ## refs
 [^curr_2024]: -, "FI3103 Computational Method", Kurikulum 2024, url https://six.itb.ac.id/pub/kur2024/matakuliah/47218 [20240903].
 [^curr_2019]: -, "FI3201 Computational Physics", Silabus Mata Kuliah 1019, url https://six.itb.ac.id/app/dosen:000000000000000000/kurikulum/silabus/40267/view [20240903].
+[^viridi_2016a]: Sparisoma Viridi, "", ..
+[^viridi_2015]: Sparisoma Viridi, Suprijadi, "", ..
+[^viridi_2016b]: Sparisoma Viridi, Siti Nurul Khotimah, Suprijadi, "", ..
+[^viridi_2017]: Sparisoma Viridi, Rizal Kurniadi, "", ..
