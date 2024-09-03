@@ -13,7 +13,7 @@ Archive for computational physics that might be used in computational method<!--
 ## materials
 Comparison between the courses Computational Method [^curr_2024] and Computational Physics [^curr_2019] is as follow.
 
-2024 | 2019
+Computational method (2024) | Computational Physics (2019)
 :- | :-
 Computational thinking | Introduction to Computational Physics
 Pseudocode-algorithm | Concepts of algorithms
