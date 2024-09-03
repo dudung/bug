@@ -7,7 +7,7 @@ tags = ['computation', 'refs']
 authors = ['viridi']
 url = '2120'
 +++
-Archive for computational physics might be used in computational method<!--more-->
+Archive for computational physics that might be used in computational method<!--more-->
 
 
 ## materials
@@ -30,6 +30,8 @@ Soft computing or AI | Artificial Intelligent (ANN, SVM, GA)
 
 
 ## archive
+There are one version of lecture notes and three collections of students projects and examples.
+
 + Lecture note in 2016-1 semester (using C++) [^viridi_2016a]
   - Program Pertama 1
   - Nama Variabel 7
@@ -58,13 +60,36 @@ Soft computing or AI | Artificial Intelligent (ANN, SVM, GA)
   - Osilasi Teredam Sistem Pegas dengan Massa Beban tak Konstan 113
   - Orientasi Gerak Jatuh Bebas Sistem 3 Partikel 129
   - Inverted Pendulum Pada Sebuah Kereta 141
-+ Student projects in 2015-2 semester [^viridi_2016b]
-+ Student projects in 2016-1 semester [^viridi_2017]
++ Student projects in 2015-2 semester + example (using C++) [^viridi_2016b]
+  - Simulasi pertumbuhan tumor dengan metode central finite difference 1
+  - Distribusi Panas Donat yang Dipanggang di dalam Oven 23
+  - Penerapan metode beda hingga dalam penyelesaian berbagai macam persamaan diferensial dari osilator harmonis hingga Klein-Gordon 43
+  - Karambol ditinjau dari segi fisika granular 81
+  - Gerakan tali sebagai rantai granular bermuatan dan bermassa dalam medan listrik seragam dan periodik 99
+  - Simulasi trayektori nanopartikel Au+ yang ditumbuhkan di dalam pengaruh medan listrik, dan medan magnet, di dalam vakum 127
+  - Pengaruh fraksi volume, tekanan udara, dan diameter nozzle dalam gerak roket air 139
+  - Distribusi temperatur 1-D pada batang dengan variasi jumlah kontak dan lebar kontak terhadap lingkungan 175
+  - Pengaruh momentum awal pesawat pada orbit manuver ayunan gravitasi 199
+  - Simulasi Gerakan Harmonis dan Chaotic pada Sistem Triple Pendulum dengan Metode Dinamika Molekuler-Euler 209
+  - Kecepatan akhir tumbukan satu dimensi dua partikel: Sebuah partikel monoatomik dan sebuah partikel diatomik 231
++ Student projects in 2016-1 semester (using JS) [^viridi_2017]
+  - Analisis bentuk orbit bumi mengelilingi matahari berdasarkan perubahan nilai posisi awal, kecepatan awal, dan massa matahari 1
+  - imulasi gerak fluida berdasarkan variasi luas penampang self-siphon dengan menggunakan metode SFVE yang mengimplementasikanalgoritma Euler 25
+  - Simulasi numerik distribusi temperatur pada pelat material persegi menggunakan Javascript 51
+  - Studi gerak jatuh 2-dimensi sistem benda: Kasus dua benda yang terhubung dengan pegas 71
+  - Model klasik resonansi Fano 115
+  - Simulasi 1d gerak osilasi terkopel untuk menentukan amplitudo maksimum benda terbawa 149
+  - Simulasi - reflektansi, transmitasi, absorbansi gelombang EM melalui N medium 173
+  - Analisis pengaruh gravitasi terhadap fenomena efek kacang Brazil 211
+  - Simulasi sifon dengan metode elemen volume fluida tunggal (single volume fluid element method) 227
+  - Simulasi gerak sistem pendulum ganda dengan gravitasi 249
+  - Pergerakan flagella dengan gaya pegas 269
 
 
 ## notes
 + It seems that both courses are the same.
 + New course is focused on the method that might have not physical system as the examples.
++ There is another course that is continuation of this course, e.g. Computational of Physical System.
 
 
 ## refs
