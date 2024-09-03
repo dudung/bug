@@ -1,5 +1,5 @@
 +++
-title = 'comp method vs comp physc'
+title = 'comp method vs comp phys'
 date = 2024-09-03T07:24:00+07:00
 draft = false
 math = true
