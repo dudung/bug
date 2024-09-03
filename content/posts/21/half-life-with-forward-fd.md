@@ -12,8 +12,29 @@ Forward finite difference formula to obtain consistent half-life<!--more-->
 Half-life refers to time required for a given quantity to decrease from its initial value to half [^bashyal_2023]. This concept plays important role in understanding the decay or radioactive substances in nuclear physics and it is also used by scientists to measure age of ancient artifacts through carbon dating [^simon_2024]. In a first order reaction the half-life unrestrained by the concentration of the reactant, but the half-lives of reactions with other orders hang on the concentrations of the reactants at the same time [^turito_2022]. While solving the equation in discrete form, e.g. using Finite Difference (FD) method [^yew_2011], chosen time step $\Delta t$ will influence the quantity, which does not match the half-time. One way to overcome the problem is given here in brief.
 
 
-## derivation
-..
+## radioactive decay
+A differential equation of decaying quantity $N$ is
+
+$$\tag{1}
+\frac{dN}{dt} = - \lambda N,
+$$
+
+where $\lambda$ stands for constant of proportionality and $t$ for time. Equation (1) can be solved by rearrange the terms to the form of
+
+$$\tag{2}
+\frac{dN}{N} = - \lambda dt,
+$$
+
+and then integrating both sides as follow
+
+$$
+\begin{array}{rcl}
+\displaystyle \int \frac{dN}{N} & = & \displaystyle \int \lambda dt \newline \newline
+\ln N - \ln N_0 & = & \lambda (t - t_0)
+\end{array}
+$$
+
+
 
 
 ## refs
