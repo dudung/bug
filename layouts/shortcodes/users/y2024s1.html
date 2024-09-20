@@ -1,0 +1,42 @@
+{{ $seed := "foo" }}
+{{ $id := delimit (shuffle (split (md5 $seed) "" )) "" }}
+
+<div style="width:100%;">
+<div id="{{ $id }}"></div>
+</div>
+
+<script>
+function main() {
+  let users = [
+    {id: '20923003', name: "Muhammad Abraar Abhirama", osf:'nqd6t'},
+    {id: '30222306', name: "Asep Bustanil Aripin", osf:'bmrpy'},
+    {id: '20923009', name: "Raden Sutiadi", osf:'ryfqa'},
+    {id: '20918006', name: "Afidah Dzikra", osf:'hd5gv'},
+    {id: '10220078', name: "Revanka Mulya", osf:'vuz97'},
+    {id: '10220022', name: "Angeli Fransiska Njo", osf:'ze6wn'},
+    {id: '10219078', name: "Achmad Qoddri", osf:'643yc'},
+    {id: '10219018', name: "Westrian Rizky Adiwardhana", osf:'dm4y7'},
+    {id: '10219009', name: "Muhammad Ridho", osf:'5an7p'},
+  ]
+  let div = document.getElementById("{{ $id }}");
+  
+  let n = users.length;
+  let text = "";
+  for(let u of users) {
+    n--;
+    let url = "https://osf.io/" + u.osf;
+    let t = "<a style='font-family:Consolas;' href='" + url +"'>" + u.osf + "</a>";
+    t += "<span style='color:#faa; font-size:80%; font-family:Consolas;'>:</span>";
+    t += "<span style='font-family:Consolas; color:#6b6; font-size:90%'>" + u.id + "</span>";
+    t += " ";
+    t += "<span>" + u.name + "</span>";
+    text += t;
+    
+    console.log(n);
+    if(n > 0) text += " &bull; "; else text += "";
+  }
+  div.innerHTML = text;
+}
+
+main();
+</script>
