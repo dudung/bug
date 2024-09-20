@@ -2,7 +2,7 @@
 title = 'Au-np synthesis modeling'
 date = 2024-01-22T14:32:09+07:00
 draft = false
-tags = ['users']
+tags = ['supervised']
 url = '1823'
 +++
 Study on Au nanoparticle synthesis with Agent-based model.
