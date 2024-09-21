@@ -19,3 +19,15 @@ Thera are two sessions of professors oration this Saturday, September 21st, 2024
 6. Siti Khodijah Chaerun.
 
 The others should be https://www.youtube.com/@itbofficial/live but not yet available.
+
+$N$&nbsp;&nbsp;&nbsp;&nbsp; | $C$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | $D$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | $H$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+-: | -: | -: | -:
+1 | 2270 | 121 | 21
+2 |  626 |  86 | 13
+3 |  128 |  35 |  7
+4 |  350 |  20 |  4
+5 | 1841 | 156 | 24
+6 |  548 |  43 | 12
+$x$ |  349 | 160 |  7
+
+Not to compare but they are very super and inspiring from my point of view.
