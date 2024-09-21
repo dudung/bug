@@ -13,7 +13,7 @@ Thera are two sessions of professors oration this Saturday, September 21st, 2024
 
 1. Veinardi Suendo, "Spektroskopi Molekul dalam Pengembangan Material Maju: Menerawang ke Dunia Material yang Tak Terlihat pada Tingkat Molekuler", Orasi Guru Besar Institut Teknologi Bandung, 21 Sep 2024, url https://osf.io/cpdhq [20240921].
 2. Inge Magdalena Sutjahja, "Sistem Penyimpanan Energi Termal untuk Konservasi Energi", Orasi Guru Besar Institut Teknologi Bandung, 21 Sep 2024, url https://osf.io/z3rd7 [20240921].
-3. Poerbandono.
+3. Poerbandono, "Hidrografi yang Maju sebagai Kondisi Prasyarat untuk Penguatan Industri Maritim Indonesia", Orasi Guru Besar Institut Teknologi Bandung, 21 Sep 2024, url https://osf.io/yzgh8 [20240921].
 4. Muslim Muin.
 5. Rachmat Hidayat.
 6. Siti Khodijah Chaerun.
@@ -31,3 +31,5 @@ $N$&nbsp;&nbsp;&nbsp;&nbsp; | $C$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | $D
 $x$ |  349 | 160 |  7
 
 Not to compare but they are very super and inspiring from my point of view.
+
+An idea to mix liquid drop model for fission reaction and stress-strain simulation for elasticity can be achieved through observation of failure position on the sample.
