@@ -22,3 +22,5 @@ Thanks to [Mr. Plan ₿](https://medium.com/@mrplanb), [Paul](https://medium.com
 [^b_2024]: Mr. Plan ₿, "I Quit Drinking Coffee Before 9 A.M. Here’s Why", Mr. Plan ₿ Publication -- Medium, 22 Sep 2024, url https://medium.com/p/6b166fa86adf [20240922].
 [^paul_2024]: Paul, "I Wrote Every Day for 3 Years — This Is What Happened", ILLUMINATION -- Medium, 21 Aug 2024, url https://medium.com/p/024d44b3ece2 [20240922].
 [^ucheagwu_2024]: Chinyere Ucheagwu, "Does nobody read your writing?", Long. Sweet. Valuable. -- Medium, 29 Aug 2024, url https://medium.com/p/20506692a1f0 [20240922].
+
+Medium story is available on https://medium.com/p/0f878c20b079.
