@@ -13,8 +13,11 @@
     
     {{ $max := len .Site.RegularPages }}
     {{ $index :=  sub $max 1 }}
-    
+
     {{ range sort .Site.RegularPages ".Params.url" "desc" }}
+      
+      {{ if gt $index 280 }}
+        <code style="color: #7b7;">{{ printf "%04d" $index }}</code>
         <code>
           <x style="color: #aaa;">{{ .Params.url }}</x>
           {{/* .{{ printf "%04d" $index */}}
@@ -23,6 +26,7 @@
         <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
         
         {{ $index = sub $index 1 }}
+      {{ end }}
     {{ end }}
    
 {{ end }}
