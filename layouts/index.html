@@ -16,7 +16,7 @@
 
     {{ range sort .Site.RegularPages ".Params.url" "desc" }}
       
-      {{ if gt $index 280 }}
+      {{ if ge $index 280 }}
         <code style="color: #7b7;">{{ printf "%04d" $index }}</code>
         <code>
           <x style="color: #aaa;">{{ .Params.url }}</x>
