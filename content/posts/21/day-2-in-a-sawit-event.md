@@ -22,3 +22,9 @@ Ciko Jhon Karunia Simamora begins at 0900 and also about ganoderma. Masih tahun 
 Egrek digital, 0909, Erwin Widodo. Satu bilah per semester, atau dua per tahun dibutuhkan. Pemanen bila sudah ditarget, matang atau belum tetap dipanen. Kerugian bila sampai dikirim ke pabrik CPO karena telah menghabiskan biaya. Egrek sudah v5 saat ini.
 
 0923 is now the time for Dr. Lila ..ana.
+
+GPT-4o tells the story about relation between FFA and PLS regression on Raman spectroscopy [^gpt4o_2024a].
+
+
+## notes
+[^gpt4o_2024a]: url https://chatgpt.com/share/66ff5152-2060-800a-8436-9fcf8ecb7124 [20241004].
