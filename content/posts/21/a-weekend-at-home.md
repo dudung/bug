@@ -17,6 +17,8 @@ Record some activities unorderly<!--more-->
 
 `04` Leave the yesterday story as is [^viridi_2024a], since there might be not sufficient time to advance it. I can not manage to create an evolving medium story as previous ones. It seems that I put some garbage on my Medium. It might be not-so-well, but compared to no story? What do you think?
 
+`05` I am not too comfortable with such mixed content, event it is necessary. So, what would be the best? Each activity has its own post and they are wrapped up with tags? Lets do an experment with new post [2127](../2127). It would be about reformulated relation between half time when the differential equation is solved using Euler algorithm.
+
 [^viridi_2024]: Sparisoma Viridi, "Entry page of a Hugo site", Gist, 5 Oct 2024, url https://gist.github.com/dudung/18db690cb1c5c62463ef4bfc6a712226 [20241005].
 [^gpt4o_2024]: GPT-4o, "Smartphone LCD Troubleshooting Tips", ChatGPT, 4 Oct 2024, url https://chatgpt.com/share/66fe7f4e-e00c-800a-99f1-6527e92680cb [20241005].
 [^gpt4o_2024a]: GPT-4o, "FFA Measurement in CPO", ChatGPT, 4 Oct 2024, url https://chatgpt.com/share/66ff5152-2060-800a-8436-9fcf8ecb7124 [20241005].
