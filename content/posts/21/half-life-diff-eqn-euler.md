@@ -9,13 +9,10 @@ url = '2127'
 +++
 Relation between halt time and time step<!--more-->
 
-Population growth, radioactive decay, and temperature of heated objects are investigated using exponential function [^foster-greenwood_2011], which have similar differential equation.
+Some examples of first order differential equations are mechanical systems, electrical circuits, population models, Newton's law of cooling, and compartemental analysis [^drakos_1966].
+Solution of a differential equation can be approximated using many methods, where one of the oldest and easiest to use is Euler's method [^dawkins_2022]. The exponential function is used for investigating temperature of heated objects, population growth and radioactive decay [^foster-greenwood_2011]. In radioactive decay a useful measurement point is the time take for half of the initial amount of material do decay, which is known as half-life [^robbins_2021]. 
 
-There are some examples of first order differential equations, e.g. mechanical systems, electrical circuits, population models, Newton's law of cooling, and compartemental analysis [^drakos_1966].
 
-Solution of a differential equation can be approximated using many methods, where one of the oldest and easiest to use is Euler's method [^dawkins_2022].
-
-In radioactive decay a useful measurement point is the time take for half of the initial amount of material do decay, which is known as half-life [^robbins_2021].
 
 [^dawkins_2022]: Paul Dawkins, "Euler's Method", 16 Nov 2022, url https://tutorial.math.lamar.edu/classes/de/eulersmethod.aspx [20241005].
 [^drakos_1966]: Nikos Drakos (converter), "Examples of First-Order Differential Equations",  Department of Mathematics, Oregon State University, 5 Feb 1996, url https://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/ode/first/examples/examples.html [20241005].
