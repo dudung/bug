@@ -3,11 +3,11 @@ title = 'index.html hugo code 2'
 date = 2024-10-06T20:25:00+07:00
 draft = false
 math = true
-tags = ['hugo', 'index html']
+tags = ['hugo', 'index-html']
 authors = ['viridi']
 url = '2129'
 +++
-List of modification of `index.html` in a Hugo site<!--more-->
+List of modifications of `index.html` in a Hugo site<!--more-->
 
 Landing page of a Hugo site is `layouts/index.html` and the page has been modified as follow
 + `06-Oct-2024` Show only posts contained in a list.
