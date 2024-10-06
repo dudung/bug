@@ -1,5 +1,5 @@
 +++
-title = 'index.html hugo code 2'
+title = 'index.html hugo code 3'
 date = 2024-10-06T20:25:00+07:00
 draft = false
 math = true
