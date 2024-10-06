@@ -32,7 +32,7 @@ $$\tag{3}
 N(T_{\frac12}) = \tfrac12 N_0.
 $$
 
-Using the time and Eqn (3) Eqn (2) will give
+Using the half-life and Eqn (3), Eqn (2) will give
 
 $$
 \tfrac12 N_0 = N_0 e^{-\lambda T_\frac12},

@@ -59,7 +59,7 @@ $$
 \lambda = \frac{\sqrt[n]{2} - 1}{\Delta t \sqrt[n]{2}}.
 $$
 
-The half-life
+The [half-life and decay constant](../2128) relation
 
 $$
 T_\frac12 = \frac{\ln 2}{\lambda}
