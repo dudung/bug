@@ -15,6 +15,18 @@ Solution of a differential equation can be approximated using many methods, wher
 
 When solving differential equation of radioactive decay with numerical approach, which is Euler method ini this case, the half-life will depend on the chosen time step. In order to obtain the right time step, a coefficient is required, where its value relates to time step value.
 
+Suppose that a half-life $T_\frac12$ is defined, than the decay constant would be
+
+from [half-life and decay constant](../2128) relation.
+
+$$\tag{1}
+\lambda = \frac{\ln 2}{T_\frac12}.
+$$
+
+Since Euler method is derived from the simple forward difference expression [], 
+
+[^]: "Forward Euler method", url https://math.libretexts.org/Bookshelves/Differential_Equations/Numerically_Solving_Ordinary_Differential_Equations_(Brorson)/01%3A_Chapters/1.02%3A_Forward_Euler_method [20241006].
+
 [^dawkins_2022]: Paul Dawkins, "Euler's Method", 16 Nov 2022, url https://tutorial.math.lamar.edu/classes/de/eulersmethod.aspx [20241005].
 [^drakos_1966]: Nikos Drakos (converter), "Examples of First-Order Differential Equations",  Department of Mathematics, Oregon State University, 5 Feb 1996, url https://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/ode/first/examples/examples.html [20241005].
 [^foster-greenwood_2011]: Briana Foster-Greenwood, "Exponential Functions: Population Growth, Radioactive Decay, and More", Math 1650.002 (Precalculus), 14 Oct 2011, url https://sites.math.unt.edu/~baf0018/courses/handouts/exponentialnotes.pdf [20241005].
