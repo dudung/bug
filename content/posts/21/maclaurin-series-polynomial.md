@@ -3,7 +3,7 @@ title = 'maclaurin series polynomial'
 date = 2024-10-06T21:01:00+07:00
 draft = false
 math = true
-tags = ['maclaurin', 'plynomial']
+tags = ['maclaurin', 'polynomial']
 authors = ['viridi']
 url = '2130'
 +++
@@ -21,7 +21,7 @@ $$
 
 with $n$ is the degree of a polynomial. And the Maclaurin series is
 
-$$\tag{1}
+$$\tag{2}
 g(x) = \sum_{i=0}^n \frac{1}{i!} \left. \frac{d^i f(x)}{dx^i} \right|_{x=0} x^i.
 $$
 
