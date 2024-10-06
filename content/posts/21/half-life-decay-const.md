@@ -6,7 +6,6 @@ math = true
 tags = ['radioactivity', 'half-life']
 authors = ['viridi']
 url = '2128'
-etc = ['72329944', 'https://websiteage.org/']
 +++
 Half-life and decay constant of radioactive material<!--more-->
 

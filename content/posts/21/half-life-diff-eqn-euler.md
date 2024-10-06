@@ -6,7 +6,6 @@ math = true
 tags = ['radioactivity', 'half-life', 'euler']
 authors = ['viridi']
 url = '2127'
-etc = ['72329944', 'https://websiteage.org/']
 +++
 Relation between half-life and time step<!--more-->
 
