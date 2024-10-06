@@ -52,8 +52,10 @@ $$
 For $x=0$ it can be obtained that
 
 $$\tag{7}
-f^m(0) = m! \ a_m.
+f^m(0) = m! \ a_m,
 $$
+
+since the other terms are zero due to $x^i$ with $i > 0$.
 
 
 [^ai_2023]: AI, "Derivative of Polynomial", StudySmarter, 4 Apr 2023, url https://www.studysmarter.co.uk/explanations/engineering/engineering-mathematics/derivative-of-polynomial/ [20241007].
