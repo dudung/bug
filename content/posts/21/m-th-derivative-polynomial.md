@@ -1,5 +1,5 @@
 +++
-title = 'n-the derivative polynomial'
+title = 'm-the derivative polynomial'
 date = 2024-10-07T04:49:00+07:00
 draft = false
 math = true
@@ -7,11 +7,11 @@ tags = ['derivative', 'polynomial']
 authors = ['viridi']
 url = '2131'
 +++
-Polynomial and its n-th derivative<!--more-->
+$m$-th derivative of a polynomial function at $x=0$<!--more-->
 
 Using limit n-th derivative of a polynomial function can be easily found [^colthrust_1998]. Some theorems, such as power rule, sum & different rule, and constant multiple rule, are required in finding the derivatives [^ai_2023]. Using derivative critical and inflection points of a polynomial function can be studied [^byrd_2011].
 
-Here general formulas for a polynomial function and its n-th derivatives for $x=0$ are given.
+Here a formula for $m$-th derivatives at $x=0$ of a polynomial function and is given.
 
 A polynomial function can be presented in a form of
 
@@ -43,7 +43,7 @@ $$\tag{5}
 f\'^\nu(x) = \sum_{i=4}^n (i-3)(i-2)(i-1) i \ a_i \ x^{i-4},
 $$
 
-which can be generalized as
+which can be later generalized until $m$-th derivative as
 
 $$\tag{6}
 f^m(x) = \sum_{i=m}^n (i-m+1) \cdots (i-3)(i-2)(i-1) i \ a_i \ x^{i-m}.
@@ -55,7 +55,7 @@ $$\tag{7}
 f^m(0) = m! \ a_m,
 $$
 
-since the other terms are zero due to $x^i$ with $i > 0$.
+since the other terms are zero due to existence of $x^i$ with $i > 0$.
 
 
 [^ai_2023]: AI, "Derivative of Polynomial", StudySmarter, 4 Apr 2023, url https://www.studysmarter.co.uk/explanations/engineering/engineering-mathematics/derivative-of-polynomial/ [20241007].
