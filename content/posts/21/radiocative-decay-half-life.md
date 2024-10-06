@@ -8,7 +8,7 @@ authors = ['viridi']
 url = '2128'
 etc = ['72329944', 'https://websiteage.org/']
 +++
-Half-life of radioactive material<!--more-->
+Half-life and decay constant of radioactive material<!--more-->
 
 As result of nuclear instability, radioactivity refers to the particles which are emitted from nuclei, where the most common types of radiation are called alpha, beta, and gamma radiation [^nave_2024]. There is also other point of view, that radioactivity is the act of emitting radiation spontaneously, where this is done by an atomic nucleus that is unstable for some reason and it wants to give up some energy in order to shift to a more stable configuration [^denny_1997]. There is an important term related to radioactivity known as half-life, which the interval of time required for the number of disintegrations per second of a radioactive material to decrease by one-half or, equivalently, is time interval required for one-half of the atomic nuclei of a radioactive sample to decay (change spontaneously into other nuclear species by emitting particles and energy) [^britannica_2024]. Half-life is inversely proportional to decay constant with proportional constant 0.963 or ln 2 [^huda_2021].
 
