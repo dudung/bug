@@ -13,6 +13,49 @@ Using limit n-th derivative of a polynomial function can be easily found [^colth
 
 Here general formulas for a polynomial function and its n-th derivatives for $x=0$ are given.
 
+A polynomial function can be presented in a form of
+
+$$\tag{1}
+f(x) = \sum_{i=0}^n a_i x^i.
+$$
+
+First derivative of $f(x)$ is simply
+
+$$\tag{2}
+f\'(x) = \sum_{i=1}^n i \ a_i \ x^{i-1},
+$$
+
+second derivative is
+
+$$\tag{3}
+f\'\'(x) = \sum_{i=2}^n (i-1) i \ a_i \ x^{i-2},
+$$
+
+third derivative is
+
+$$\tag{4}
+f\'\'\'(x) = \sum_{i=3}^n (i-2)(i-1) i \ a_i \ x^{i-3},
+$$
+
+and fourth derivative is
+
+$$\tag{5}
+f\'^\nu(x) = \sum_{i=4}^n (i-3)(i-2)(i-1) i \ a_i \ x^{i-4},
+$$
+
+which can be generalized as
+
+$$\tag{6}
+f^m(x) = \sum_{i=m}^n (i-m+1) \cdots (i-3)(i-2)(i-1) i \ a_i \ x^{i-m}.
+$$
+
+For $x=0$ it can be obtained that
+
+$$\tag{7}
+f^m(0) = m! \ a_m.
+$$
+
+
 [^ai_2023]: AI, "Derivative of Polynomial", StudySmarter, 4 Apr 2023, url https://www.studysmarter.co.uk/explanations/engineering/engineering-mathematics/derivative-of-polynomial/ [20241007].
 [^byrd_2011]: Donald Byrd, "Polynomials and their Derivatives: Polynomials, Critical Points, and Inflection Points", IUPUI Math Education, Indiana University Informatics, 30 Nov 2011, url https://homes.luddy.indiana.edu/donbyrd/Teach/Math/Polynomials+Derivatives.pdf [20241007].
 [^colthrust_1998]: Thomas Wallace Colthurst, Craig B. Watkins, Joy Nicholson, Elizabeth Shapere, Carolyn Phillips, "Derivatives of Polynomials", Worl Web Math, Massachusetts Institute of Technology, 28 Aug 1998, url https://web.mit.edu/wwmath/calculus/differentiation/polynomials.html [20241007].
