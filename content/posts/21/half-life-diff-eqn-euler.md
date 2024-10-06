@@ -23,10 +23,16 @@ $$\tag{1}
 \lambda = \frac{\ln 2}{T_\frac12}.
 $$
 
-Since Euler method is derived from the simple forward difference expression [], 
+Since Euler method is derived from the simple forward difference expression [^brorson_2022], following relation between [half-time and time step](../2118)
 
-[^]: "Forward Euler method", url https://math.libretexts.org/Bookshelves/Differential_Equations/Numerically_Solving_Ordinary_Differential_Equations_(Brorson)/01%3A_Chapters/1.02%3A_Forward_Euler_method [20241006].
+$$\tag{2}
+T_\frac12 = \left( \frac{\sqrt[n]{2} \ln 2}{\sqrt[n]{2} - 1} \right) \Delta t.
+$$
 
+can be used.
+
+
+[^brorson_2022]: Stuart Brorson (curator), "Forward Euler method", in Numerically Solving Ordinary Differential Equations, Northeastern University, 26 Jul 2022, url https://math.libretexts.org/Bookshelves/Differential_Equations/Numerically_Solving_Ordinary_Differential_Equations_(Brorson)/01%3A_Chapters/1.02%3A_Forward_Euler_method [20241006].
 [^dawkins_2022]: Paul Dawkins, "Euler's Method", 16 Nov 2022, url https://tutorial.math.lamar.edu/classes/de/eulersmethod.aspx [20241005].
 [^drakos_1966]: Nikos Drakos (converter), "Examples of First-Order Differential Equations",  Department of Mathematics, Oregon State University, 5 Feb 1996, url https://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/ode/first/examples/examples.html [20241005].
 [^foster-greenwood_2011]: Briana Foster-Greenwood, "Exponential Functions: Population Growth, Radioactive Decay, and More", Math 1650.002 (Precalculus), 14 Oct 2011, url https://sites.math.unt.edu/~baf0018/courses/handouts/exponentialnotes.pdf [20241005].
