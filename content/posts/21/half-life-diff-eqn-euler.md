@@ -6,7 +6,7 @@ math = true
 tags = ['tagebuch']
 authors = ['viridi']
 url = '2127'
-ifiw = '72329944'
+etc = ['72329944', 'https://websiteage.org/']
 +++
 Relation between halt time and time step<!--more-->
 
