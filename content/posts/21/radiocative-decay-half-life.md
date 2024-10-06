@@ -21,10 +21,22 @@ $$
 as the amount of number of parent nuclei decrease [^belyaev_2015]. The differential equation has following solution
 
 $$\tag{2}
-N(t) = N_0 e^{-(t - t_0)},
+N(t) = N_0 e^{-\lambda(t - t_0)},
 $$
 
-where $N_0 =  N(t_0)$. For simplicity it is commont to set $t_0 = 0$ and the time interval is measured from $t = 0$.
+where $N_0 =  N(t_0)$. For simplicity it is common to set $t_0 = 0$ and the time interval is measured from $t = 0$.
+
+At half-life or $t = T_{\frac12}$ amount of nuclei is
+
+$$\tag{3}
+N(T_{\frac12}) = \tfrac12 N_0.
+$$
+
+Using the time and Eqn (3) in Eqn (2) will give
+
+$$
+\tfrac12 N_0 = N_0 e^{-\lambda T_\frac12}
+$$
 
 [^belyaev_2015]: Alexander S Belyaev, "Radioactivity", University of Southampton, United Kingdom, 23 Feb 2015, url https://www.personal.soton.ac.uk/ab1u06/teaching/phys3002/course/06_radioactivity.pdf, 
 [^britannica_2024]: The Editors of Encyclopaedia Britannica "half-life", Encyclopedia Britannica, 19 Jan 2024, url https://www.britannica.com/science/half-life-radioactivity [20241006].
