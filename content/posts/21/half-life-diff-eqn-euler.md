@@ -3,7 +3,7 @@ title = 'half-life diff eqn euler'
 date = 2024-10-05T17:06:00+07:00
 draft = false
 math = true
-tags = ['tagebuch']
+tags = ['radioactivity', 'half-life', 'euler']
 authors = ['viridi']
 url = '2127'
 etc = ['72329944', 'https://websiteage.org/']
@@ -13,7 +13,7 @@ Relation between half-life and time step<!--more-->
 Some examples of first order differential equations are mechanical systems, electrical circuits, population models, Newton's law of cooling, and compartemental analysis [^drakos_1966].
 Solution of a differential equation can be approximated using many methods, where one of the oldest and easiest to use is Euler's method [^dawkins_2022]. As analytical solution, the exponential function is used for investigating temperature of heated objects, population growth and radioactive decay [^foster-greenwood_2011]. In radioactive decay a useful measurement point is the time take for half of the initial amount of material do decay, which is known as half-life [^robbins_2021]. Certain model of population growth and radioactive decay share similar differential equations, which also have similar solution.
 
-When solving differential equation of radioactive decay with numerical approach, which is Euler method ini this case, the half-life will depend on the chosen time step. In order to obtain the right time step, a coefficient is required, where its value relates to time step value. See [2128](../2128) for the relation between the half-life and decay constant.
+When solving differential equation of radioactive decay with numerical approach, which is Euler method ini this case, the half-life will depend on the chosen time step. In order to obtain the right time step, a coefficient is required, where its value relates to time step value.
 
 [^dawkins_2022]: Paul Dawkins, "Euler's Method", 16 Nov 2022, url https://tutorial.math.lamar.edu/classes/de/eulersmethod.aspx [20241005].
 [^drakos_1966]: Nikos Drakos (converter), "Examples of First-Order Differential Equations",  Department of Mathematics, Oregon State University, 5 Feb 1996, url https://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/ode/first/examples/examples.html [20241005].
