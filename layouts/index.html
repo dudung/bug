@@ -16,7 +16,7 @@
     {{ $max := len .Site.RegularPages }}
     {{ $index :=  sub $max 1 }}
     
-    {{ $urls := slice "2118" "2127" "2128" "2129" }}
+    {{ $urls := slice "2118" "2127" "2128" "2129" "2130" }}
     
     {{ range where .Site.RegularPages ".Params.url" "in" $urls }}
       <code style="color: #7b7;">{{ printf "%04d" $index }}</code>
