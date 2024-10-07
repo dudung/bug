@@ -1,5 +1,5 @@
 +++
-title = 'system 2-mass 1-spring'
+title = 'system 2-mass 1-spring 1-d'
 date = 2024-10-07T08:04:00+07:00
 draft = false
 math = true
@@ -53,13 +53,13 @@ is system center of mass.
 
 Multiply Eqn (3) with $m_2$ and Eqn (4) with $m_1$ will produce
 
-$$\tag{3}
+$$\tag{7}
 m_1 m_2 \frac{d^2 x_1}{dt^2} = k m_2 [ (x_2 - x_1) - l_0 ]
 $$
 
 and
 
-$$\tag{4}
+$$\tag{8}
 m_1 m_2 \frac{d^2 x_2}{dt^2} =  - k m_1[ (x_2 - x_1) - l_0 ].
 $$
 
