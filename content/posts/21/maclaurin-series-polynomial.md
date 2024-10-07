@@ -25,7 +25,10 @@ $$\tag{2}
 g(x) = \sum_{i=0}^n \frac{1}{i!} \left. \frac{d^i f(x)}{dx^i} \right|_{x=0} x^i.
 $$
 
-The $g(x)$ should be able to represent $f(x)$ with all of its terms.
+The $g(x)$ should be able to represent $f(x)$ with all of its terms. Eqn (2) will produce
+
+
+from [$m$-th derivative of a polynomial at $x=0$](../2131).
 
 
 [^art_2017]: Simply Beautiful Art, "What is the difference between the Taylor and Maclaurin series?", Mathematics Stack Exchange, 1 Feb 2017, url https://math.stackexchange.com/a/2121750/645927 [20241006].

@@ -1,5 +1,5 @@
 +++
-title = 'm-the derivative polynomial'
+title = 'm-th derivative polynomial zero'
 date = 2024-10-07T04:49:00+07:00
 draft = false
 math = true
