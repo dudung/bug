@@ -9,7 +9,7 @@ url = '2132'
 +++
 System of two mass and one spring<!--more-->
 
-Two frictionless and free moving masses connected by a spring will have two natural frequencies, where one is zero [^centauri_2016]. The system can be considered as similar system with two springs [^hallauer_2022], but with the second spring is unattached to a fix point. Simpler system with only one mass but with massful spring, 
+Two frictionless and free moving masses connected by a spring will have two natural frequencies, where one is zero [^centauri_2016]. The system can be considered as similar system with two springs [^hallauer_2022], but with the second spring is unattached to a fix point. Simpler system with only one mass but with massful spring is still interesting [^cushing_1984].
 
 
 [^centauri_2016]: Alfred Centauri, "Two mass one-spring system natural frequency", Physics Stack Exchange, 6 May 2016, url https://physics.stackexchange.com/q/254412 [20241007].
