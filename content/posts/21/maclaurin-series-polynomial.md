@@ -11,7 +11,7 @@ An example of Maclaurin series<!--more-->
 
 One of representations of a function as an infinite sum of terms calculated from the values of the function's derivatives at a single point is known as a Taylor series [^wheaton_2016] and a Maclaurin series is a Taylor series expansion of a function about 0 [^weisstein_2024]. Both series are found similar to a power series [^art_2017].
 
-How to obtain a Maclaurin series representing a polynomial function is given here.
+How a Maclaurin series can represent a polynomial function is given here.
 
 Suppose there is polynomial function represented in the form of [^mathcenter_2009]
 
@@ -25,10 +25,19 @@ $$\tag{2}
 g(x) = \sum_{i=0}^n \frac{1}{i!} \left. \frac{d^i f(x)}{dx^i} \right|_{x=0} x^i.
 $$
 
-The $g(x)$ should be able to represent $f(x)$ with all of its terms. Eqn (2) will produce
+The $g(x)$ should be able to represent $f(x)$ with all of its terms. Eqn (1) will become
 
+$$\tag{3}
+f^m(0) = m! \ a_m,
+$$
 
-from [$m$-th derivative of a polynomial at $x=0$](../2131).
+from $m$-th [derivative of a polynomial](../2131) at $x=0$. Substitute Eqn (3) into Eqn (2) will give
+
+$$
+g(x) = \sum_{i=0}^n \frac{1}{i!} \ ( i! \ a_i ) \ x^i = \sum_{i=0}^n a_i x^i,
+$$
+
+which is back to Eqn (1). It has been shown that Maclaurin series can represent a polynomial function.
 
 
 [^art_2017]: Simply Beautiful Art, "What is the difference between the Taylor and Maclaurin series?", Mathematics Stack Exchange, 1 Feb 2017, url https://math.stackexchange.com/a/2121750/645927 [20241006].
