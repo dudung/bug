@@ -7,7 +7,7 @@ tags = ['spring-mass']
 authors = ['viridi']
 url = '2133'
 +++
-A working note for system of two mass and one spring<!--more-->
+A working note for system of two masses and one spring<!--more-->
 
 $$\tag{1}
 m_1 \frac{d^2 x_1}{dt^2} = -k(x_1 - x_2) - k l_0
@@ -19,7 +19,7 @@ $$\tag{2}
 m_2 \frac{d^2 x_2}{dt^2} =  -k(x_2 - x_1) + k l_0,
 $$
 
-where $x_2 > x_1$.
+where $x_3 > x_2 > x_1$.
 
 Multiply Eqn (1) with $m_2$ and Eqn (2) with $m_1$ will turn previous equations into
 
