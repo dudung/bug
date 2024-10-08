@@ -9,4 +9,7 @@ url = '2137'
 +++
 Observe and give comments on UI development<!--more-->
 
-url https://osf.io/5vn6d/ [2024]
+Give comments on first version of software manual from Nina Siti Aminah student [^aminah_2024].
+
+
+[^aminah_2024]: -, Nina Siti Aminah (supervisor), "Manual awal", OSF, 7 Oct 2028, url https://osf.io/sm9jh [20241009].
