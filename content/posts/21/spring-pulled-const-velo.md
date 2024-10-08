@@ -112,5 +112,3 @@ should hold.
 [^howell_2010]: Kenneth Howell, "", Department of Mathematical Sciences, University of Alabama in Huntsville, 28 Jun 2010, url https://www.uah.edu/images/people/faculty/howellkb/DEText-Ch9.pdf [20241008].
  velocity of $m_i$ can be found as follow
  
-$$
-$$
