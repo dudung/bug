@@ -68,7 +68,7 @@ $$\tag{8}
 \mu = \frac{m_1 m_2}{m_1 + m_2},
 $$
 
-which is known as distance between two masses [^alexiou_2016].
+which is known as effective mass [^alexiou_2016].
 
 
 [^alexiou_2016]: John Alexiou, "Two mass one-spring system natural frequency", Physics Stack Exchange, 6 May 2016, url https://physics.stackexchange.com/q/254458 [20241008].
