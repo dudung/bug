@@ -7,22 +7,68 @@ tags = ['spring-mass']
 authors = ['viridi']
 url = '2133'
 +++
-A scratch note for system of two mass and one spring<!--more-->
+A working note for system of two mass and one spring<!--more-->
 
 $$\tag{1}
-m_1 \frac{d^2 x_1}{dt^2} = k [ (x_2 - x_1) - l_0 ]
+m_1 \frac{d^2 x_1}{dt^2} = -k(x_1 - x_2) - k l_0
 $$
 
 and
 
 $$\tag{2}
-m_2 \frac{d^2 x_2}{dt^2} =  - k [ (x_2 - x_1) - l_0 ].
+m_2 \frac{d^2 x_2}{dt^2} =  -k(x_2 - x_1) + k l_0,
 $$
 
-Substract Eqn (2) with Eqn (1) to obtain following equations.
+where $x_2 > x_1$.
+
+Multiply Eqn (1) with $m_2$ and Eqn (2) with $m_1$ will turn previous equations into
+
+$$\tag{3}
+m_2 m_1 \frac{d^2 x_1}{dt^2} = -k m_2 (x_1 - x_2) - k m_2 l_0
+$$
+
+and
+
+$$\tag{4}
+m_1 m_2 \frac{d^2 x_2}{dt^2} = -k m_1 (x_2 - x_1) + k m_1 l_0.
+$$
+
+Substract Eqn (4) with Eqn (3) will produce
+
+$$\tag{5}
+\begin{array}{rcl}
+\displaystyle m_2 m_1 \frac{d^2}{dt^2} (x_2 - x_1) & = & -k (m_1 + m_2) (x_2 - x_1) + k (m_1 + m_2) l_0 \newline \newline
+\displaystyle \left( \frac{m_2 m_1}{m_1 + m_2} \right) \frac{d^2}{dt^2} (x_2 - x_1) & = & -k (x_2 - x_1) + k l_0 \newline \newline
+\displaystyle \mu \frac{d^2 x_{21}}{dt^2} & = & k x_{21} + k l_0 \newline \newline
+\displaystyle \mu \frac{d^2 (x_{21} + l_0)}{dt^2} & = & -k(x_{21} - l_0) \newline \newline
+\displaystyle \frac{d^2 (x_{21} - l_0)}{dt^2} & = & \displaystyle -\left( \frac{k}{\mu} \right) (x_{21} - l_0) \newline \newline
+\displaystyle \frac{d^2 y}{dt^2} & = & \displaystyle -\omega^2 y.
+\end{array}
+$$
+
+Solution of previous final equation is
+
+$$
+\begin{array}{rcl}\tag{6}
+y & = & A \sin (\omega t + \phi) \newline \newline
+x_{21} - l_0 & = &  A \sin (\omega t + \phi) \newline \newline
+x_{21} & = &  l_0 + A \sin (\omega t + \phi),
+\end{array}
+$$
+
+with
+
+$$\tag{7}
+\omega = \sqrt{\frac{k}{\mu}}
+$$
+
+and
+
+$$\tag{8}
+\mu = \frac{m_1 m_2}{m_1 + m_2},
+$$
+
+which is known as distance between two masses [^alexiou_2016].
 
 
-[^centauri_2016]: Alfred Centauri, "Two mass one-spring system natural frequency", Physics Stack Exchange, 6 May 2016, url https://physics.stackexchange.com/q/254412 [20241007].
-[^cushing_1984]: James T. Cushing, "", American Journal of Physics, vol 53, no 10, p 925-933, Oct 1984, url https://doi.org/10.1119/1.13796.
-[^hallauer_2022]: William L. Hallauer Jr., "Undamped Two-Mass-Two-Spring System" in Introduction to Linear Time-Invariant Dynamic Systems for Students of Engineering, Virginia Polytechnic Institute and State University, 23 May 2022, url https://eng.libretexts.org/@go/page/7699 [20241007].
- 
+[^alexiou_2016]: John Alexiou, "Two mass one-spring system natural frequency", Physics Stack Exchange, 6 May 2016, url https://physics.stackexchange.com/q/254458 [20241008].

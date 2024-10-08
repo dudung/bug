@@ -40,7 +40,7 @@ $$
 Sum of Eqns (3) and (4) gives
 
 $$\tag{5}
-\frac{d^2 X_{\rm com}}{dt^2} = 0,
+\frac{d^2 X_{\rm com}}{dt^2} = 0, \ \ \omega_1 = 0
 $$
 
 with
@@ -63,8 +63,19 @@ $$\tag{8}
 m_1 m_2 \frac{d^2 x_2}{dt^2} =  - k m_1[ (x_2 - x_1) - l_0 ].
 $$
 
+Substract Eqn (4) with Eqn (3) will give
 
-Substract Eqn (4) with Eqn (3) will give an equation.
+$$\tag{9}
+\omega_2 = \sqrt{\frac{k}{\mu}}
+$$
+
+and
+
+$$\tag{10}
+\mu = \frac{m_1 m_2}{m_1 + m_2}
+$$
+
+is effective mass, whose details are in [system 2-mass 1-spring](../2133).
 
 
 [^centauri_2016]: Alfred Centauri, "Two mass one-spring system natural frequency", Physics Stack Exchange, 6 May 2016, url https://physics.stackexchange.com/q/254412 [20241007].
