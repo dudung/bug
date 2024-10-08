@@ -98,3 +98,7 @@ k l_0 \newline
 \end{matrix}
 \right]
 $$
+
+The most right term in Eqn (5) can not be neglected if the displacement is large [^gpt4o_2024].
+
+[^gpt4o_2024]: GPT-4o, "Spring Mass System Dynamics", ChatGPT, 8 Oct 2024, url https://chatgpt.com/share/6704ac44-7740-800a-a3fe-1e4c032d19b3 [20241008].
