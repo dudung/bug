@@ -9,8 +9,28 @@ url = '2135'
 +++
 A working note for system of two masses and one spring pulled with constant velocity<!--more-->
 
-A mass $m_1$, which stays at rest, connected with mass $m_2$ via a spring with constant $k$ and normal length $l_{12}$ or $l_{21}$. The distance between two masses is
+A mass $m_i$ connected with mass $m_j$ via a spring with constant $k_{ij}$ and normal length $l_{ij}$. Position of $m_i$ relative to $m_j$ is
 
 $$\tag{1}
-x_{21} = x_2 - x_1
+x_{ij} = x_i - x_j
+$$
+
+and the distance between mass $m_i$ and $m_j$ is
+
+$$\tag{2}
+r_{ij} = \sqrt{(x_i - x_j)^2}.
+$$
+
+Notice that $r_{ij}$ is always positive, while $x_{ij}$ can be positive or negative.
+
+Spring force on $m_i$ due to $m_j$ is
+
+$$\tag{3}
+S_{ij} = -k_{ij}(r_{ij} - l_{ij}) u_{ij},
+$$
+
+where the unit vector is simplye
+
+$$\tag{4}
+u_{ij} = \frac{x_i - x_j}{r_{ij}}.
 $$
