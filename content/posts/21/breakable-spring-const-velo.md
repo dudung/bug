@@ -29,8 +29,10 @@ $$\tag{3}
 S_{ij} = -k_{ij}(r_{ij} - l_{ij}) u_{ij},
 $$
 
-where the unit vector is simplye
+where the unit vector is simple
 
 $$\tag{4}
 u_{ij} = \frac{x_i - x_j}{r_{ij}}.
 $$
+
+Eqns (2) and (4) can be extended from this 1-d system to 2-d and 3-d systems.
