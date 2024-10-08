@@ -1,5 +1,5 @@
 +++
-title = 'breakable spring const velo'
+title = 'spring pulled const velo'
 date = 2024-10-08T10:58:00+07:00
 draft = false
 math = true
