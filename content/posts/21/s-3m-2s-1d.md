@@ -7,68 +7,94 @@ tags = ['spring-mass']
 authors = ['viridi']
 url = '2134'
 +++
-A working note for system of two masses and one spring<!--more-->
+A working note for system of three masses and two spring<!--more-->
+
+Suppose there are three masses $m_1$, $m_2$, $m_3$ and two springs with constant $k$, that are put in series. Then using Newton's second law of motion we can have
 
 $$\tag{1}
-m_1 \frac{d^2 x_1}{dt^2} = -k(x_1 - x_2) - k l_0
+m_1 \ddot{x}_1 = -k(x_1 - x_2) - k l_0,
 $$
-
-and
 
 $$\tag{2}
-m_2 \frac{d^2 x_2}{dt^2} =  -k(x_2 - x_1) + k l_0,
+m_2 \ddot{x}_2 =  -k(x_2 - x_1) - k(x_2 - x_3),
 $$
-
-where $x_2 > x_1$.
-
-Multiply Eqn (1) with $m_2$ and Eqn (2) with $m_1$ will turn previous equations into
 
 $$\tag{3}
-m_2 m_1 \frac{d^2 x_1}{dt^2} = -k m_2 (x_1 - x_2) - k m_2 l_0
+m_3 \ddot{x}_2 =  -k(x_3 - x_2) + k l_0,
 $$
 
-and
+where $x_3 > x_2 > x_1$. Previous equations can be presented in matrix form as follow
 
 $$\tag{4}
-m_1 m_2 \frac{d^2 x_2}{dt^2} = -k m_1 (x_2 - x_1) + k m_1 l_0.
+\left[
+\begin{matrix}
+\ddot{x}_1 \newline
+\ddot{x}_2 \newline
+\ddot{x}_3 \newline
+\end{matrix}
+\right] = \left[
+\begin{matrix}
+-k & k & 0 \newline
+k & -2k & k \newline
+0 & k & -k \newline
+\end{matrix}
+\right] \left[
+\begin{matrix}
+x_1 \newline
+x_2 \newline
+x_3 \newline
+\end{matrix}
+\right] + \left[
+\begin{matrix}
+-k l_0 \newline
+0 \newline
+k l_0 \newline
+\end{matrix}
+\right]
 $$
 
-Substract Eqn (4) with Eqn (3) will produce
+and generalized as
 
 $$\tag{5}
-\begin{array}{rcl}
-\displaystyle m_2 m_1 \frac{d^2}{dt^2} (x_2 - x_1) & = & -k (m_1 + m_2) (x_2 - x_1) + k (m_1 + m_2) l_0 \newline \newline
-\displaystyle \left( \frac{m_2 m_1}{m_1 + m_2} \right) \frac{d^2}{dt^2} (x_2 - x_1) & = & -k (x_2 - x_1) + k l_0 \newline \newline
-\displaystyle \mu \frac{d^2 x_{21}}{dt^2} & = & k x_{21} + k l_0 \newline \newline
-\displaystyle \mu \frac{d^2 (x_{21} + l_0)}{dt^2} & = & -k(x_{21} - l_0) \newline \newline
-\displaystyle \frac{d^2 (x_{21} - l_0)}{dt^2} & = & \displaystyle -\left( \frac{k}{\mu} \right) (x_{21} - l_0) \newline \newline
-\displaystyle \frac{d^2 y}{dt^2} & = & \displaystyle -\omega^2 y.
-\end{array}
+\left[
+\begin{matrix}
+\ddot{x}_1 \newline
+\ddot{x}_2 \newline
+\ddot{x}_3 \newline
+\vdots \newline
+\ddot{x} _{n-2} \newline
+\ddot{x} _{n-1} \newline
+\ddot{x}_n \newline
+\end{matrix}
+\right] = \left[
+\begin{matrix}
+-k & k & 0 & \cdots & 0 & 0 & 0 \newline
+k & -2k & k & \cdots & 0 & 0 & 0 \newline
+0 & k & -2k & \cdots & 0 & 0 & 0 \newline
+\vdots & \vdots & \vdots & \ddots &\vdots & \vdots & \vdots \newline
+0 & 0 & 0 & \cdots & -2k & k & 0 \newline
+0 & 0 & 0 & \cdots & k & -2k & k \newline
+0 & 0 & 0 & \cdots & 0 & k & -k \newline
+\end{matrix}
+\right] \left[
+\begin{matrix}
+x_1 \newline
+x_2 \newline
+x_3 \newline
+\vdots \newline
+x _{n-2} \newline
+x _{n-1} \newline
+x_n \newline
+\end{matrix}
+\right] + \left[
+\begin{matrix}
+-k l_0 \newline
+0 \newline
+0 \newline
+\vdots \newline
+0 \newline
+0 \newline
+k l_0 \newline
+\end{matrix}
+\right]
 $$
-
-Solution of previous final equation is
-
-$$
-\begin{array}{rcl}\tag{6}
-y & = & A \sin (\omega t + \phi) \newline \newline
-x_{21} - l_0 & = &  A \sin (\omega t + \phi) \newline \newline
-x_{21} & = &  l_0 + A \sin (\omega t + \phi),
-\end{array}
-$$
-
-with
-
-$$\tag{7}
-\omega = \sqrt{\frac{k}{\mu}}
-$$
-
-and
-
-$$\tag{8}
-\mu = \frac{m_1 m_2}{m_1 + m_2},
-$$
-
-which is known as distance between two masses [^alexiou_2016].
-
-
-[^alexiou_2016]: John Alexiou, "Two mass one-spring system natural frequency", Physics Stack Exchange, 6 May 2016, url https://physics.stackexchange.com/q/254458 [20241008].
